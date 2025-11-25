@@ -1,0 +1,518 @@
+inct_folder,formacao_mais_alta,qtd,nome_inct,area
+0,AS_METRÓPOLES_E,Doutorado,5,"INCT AS METRÓPOLES E O DIREITO À CIDADE: conhecimento, inovação e ação para o desenvolvimento urbano - Programa de Pesquisa da Rede Observatório das Metrópoles 2015-2020","Ciências Humanas, Sociais Aplicadas e Educação"
+1,AS_METRÓPOLES_E,Pós-Doutorado,5,"INCT AS METRÓPOLES E O DIREITO À CIDADE: conhecimento, inovação e ação para o desenvolvimento urbano - Programa de Pesquisa da Rede Observatório das Metrópoles 2015-2020","Ciências Humanas, Sociais Aplicadas e Educação"
+2,Alternativas_para_Detecção,Doutorado,48,"INCT Alternativas para Detecção, Avaliação Toxicológica e Remoção de Micropoluentes e Radioativos (INCT-DATREM)",Ciências Exatas e da Terra
+3,Alternativas_para_Detecção,Graduação,19,"INCT Alternativas para Detecção, Avaliação Toxicológica e Remoção de Micropoluentes e Radioativos (INCT-DATREM)",Ciências Exatas e da Terra
+4,Alternativas_para_Detecção,Livre-Docência,22,"INCT Alternativas para Detecção, Avaliação Toxicológica e Remoção de Micropoluentes e Radioativos (INCT-DATREM)",Ciências Exatas e da Terra
+5,Alternativas_para_Detecção,Mestrado,11,"INCT Alternativas para Detecção, Avaliação Toxicológica e Remoção de Micropoluentes e Radioativos (INCT-DATREM)",Ciências Exatas e da Terra
+6,Alternativas_para_Detecção,Pós-Doutorado,61,"INCT Alternativas para Detecção, Avaliação Toxicológica e Remoção de Micropoluentes e Radioativos (INCT-DATREM)",Ciências Exatas e da Terra
+7,Analíticas_Avançadas,Doutorado,34,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+8,Analíticas_Avançadas,Especialização,1,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+9,Analíticas_Avançadas,Graduação,1,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+10,Analíticas_Avançadas,Livre-Docência,14,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+11,Analíticas_Avançadas,Mestrado,4,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+12,Analíticas_Avançadas,Pós-Doutorado,33,INCT Analíticas Avançadas (INCT-AA),Ciências Exatas e da Terra
+13,Ativos_Biotecnológicos_Aplicad,Doutorado,67,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+14,Ativos_Biotecnológicos_Aplicad,Especialização,1,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+15,Ativos_Biotecnológicos_Aplicad,Graduação,7,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+16,Ativos_Biotecnológicos_Aplicad,Livre-Docência,1,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+17,Ativos_Biotecnológicos_Aplicad,Mestrado,9,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+18,Ativos_Biotecnológicos_Aplicad,Pós-Doutorado,121,INCT Ativos Biotecnológicos Aplicados à Seca e Pragas de Culturas Relevantes ao Agronegócio,Ciências Biológicas
+19,Biologia_Sintetica,Doutorado,50,INCT Biologia Sintetica,Ciências Biológicas
+20,Biologia_Sintetica,Ensino Médio,1,INCT Biologia Sintetica,Ciências Biológicas
+21,Biologia_Sintetica,Especialização,4,INCT Biologia Sintetica,Ciências Biológicas
+22,Biologia_Sintetica,Graduação,9,INCT Biologia Sintetica,Ciências Biológicas
+23,Biologia_Sintetica,Livre-Docência,2,INCT Biologia Sintetica,Ciências Biológicas
+24,Biologia_Sintetica,Mestrado,12,INCT Biologia Sintetica,Ciências Biológicas
+25,Biologia_Sintetica,Pós-Doutorado,75,INCT Biologia Sintetica,Ciências Biológicas
+26,Brasil_Plural,Doutorado,20,INCT Brasil Plural,"Ciências Humanas, Sociais Aplicadas e Educação"
+27,Brasil_Plural,Livre-Docência,1,INCT Brasil Plural,"Ciências Humanas, Sociais Aplicadas e Educação"
+28,Brasil_Plural,Pós-Doutorado,67,INCT Brasil Plural,"Ciências Humanas, Sociais Aplicadas e Educação"
+29,Centro_de_Química,Doutorado,1,INCT Centro de Química Medicinal de Acesso Aberto,Ciências Biológicas
+30,Centro_de_Química,Livre-Docência,5,INCT Centro de Química Medicinal de Acesso Aberto,Ciências Biológicas
+31,Centro_de_Química,Pós-Doutorado,3,INCT Centro de Química Medicinal de Acesso Aberto,Ciências Biológicas
+32,Ciências_Forenses,Doutorado,15,INCT Ciências Forenses,Ecologia e Meio Ambiente
+33,Ciências_Forenses,Especialização,2,INCT Ciências Forenses,Ecologia e Meio Ambiente
+34,Ciências_Forenses,Graduação,1,INCT Ciências Forenses,Ecologia e Meio Ambiente
+35,Ciências_Forenses,Livre-Docência,1,INCT Ciências Forenses,Ecologia e Meio Ambiente
+36,Ciências_Forenses,Mestrado,3,INCT Ciências Forenses,Ecologia e Meio Ambiente
+37,Ciências_Forenses,Pós-Doutorado,33,INCT Ciências Forenses,Ecologia e Meio Ambiente
+38,Ecologia_Evolução_e,Doutorado,48,"INCT Ecologia, Evolução e Conservação da Biodiversidade",Ciências Biológicas
+39,Ecologia_Evolução_e,Livre-Docência,13,"INCT Ecologia, Evolução e Conservação da Biodiversidade",Ciências Biológicas
+40,Ecologia_Evolução_e,Mestrado,1,"INCT Ecologia, Evolução e Conservação da Biodiversidade",Ciências Biológicas
+41,Ecologia_Evolução_e,Pós-Doutorado,71,"INCT Ecologia, Evolução e Conservação da Biodiversidade",Ciências Biológicas
+42,Envelhecimento_e_Doenças,Doutorado,17,INCT Envelhecimento e Doenças Genéticas: Genômica e Metagenômica,Ciências Biológicas
+43,Envelhecimento_e_Doenças,Graduação,1,INCT Envelhecimento e Doenças Genéticas: Genômica e Metagenômica,Ciências Biológicas
+44,Envelhecimento_e_Doenças,Livre-Docência,15,INCT Envelhecimento e Doenças Genéticas: Genômica e Metagenômica,Ciências Biológicas
+45,Envelhecimento_e_Doenças,Pós-Doutorado,11,INCT Envelhecimento e Doenças Genéticas: Genômica e Metagenômica,Ciências Biológicas
+46,Estações_Sustentáveis_de,Doutorado,34,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+47,Estações_Sustentáveis_de,Especialização,1,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+48,Estações_Sustentáveis_de,Graduação,8,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+49,Estações_Sustentáveis_de,Livre-Docência,1,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+50,Estações_Sustentáveis_de,Mestrado,10,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+51,Estações_Sustentáveis_de,Pós-Doutorado,31,INCT Estações Sustentáveis de Tratamento de Esgoto  (INCT-ETEs sustentáveis),"Engenharias, Energias e Tecnologias da Informação"
+52,Física_Nuclear_e,Doutorado,127,INCT Física Nuclear e Aplicações,Ciências Exatas e da Terra
+53,Física_Nuclear_e,Graduação,32,INCT Física Nuclear e Aplicações,Ciências Exatas e da Terra
+54,Física_Nuclear_e,Livre-Docência,35,INCT Física Nuclear e Aplicações,Ciências Exatas e da Terra
+55,Física_Nuclear_e,Mestrado,52,INCT Física Nuclear e Aplicações,Ciências Exatas e da Terra
+56,Física_Nuclear_e,Pós-Doutorado,174,INCT Física Nuclear e Aplicações,Ciências Exatas e da Terra
+57,História_Social_das,Doutorado,32,INCT História Social das Propriedades e direito de acesso,"Ciências Humanas, Sociais Aplicadas e Educação"
+58,História_Social_das,Especialização,2,INCT História Social das Propriedades e direito de acesso,"Ciências Humanas, Sociais Aplicadas e Educação"
+59,História_Social_das,Graduação,12,INCT História Social das Propriedades e direito de acesso,"Ciências Humanas, Sociais Aplicadas e Educação"
+60,História_Social_das,Mestrado,6,INCT História Social das Propriedades e direito de acesso,"Ciências Humanas, Sociais Aplicadas e Educação"
+61,História_Social_das,Pós-Doutorado,62,INCT História Social das Propriedades e direito de acesso,"Ciências Humanas, Sociais Aplicadas e Educação"
+62,Inclusão_no_Ensino,Doutorado,6,INCT Inclusão no Ensino Superior e na Pesquisa,"Ciências Humanas, Sociais Aplicadas e Educação"
+63,Inclusão_no_Ensino,Graduação,1,INCT Inclusão no Ensino Superior e na Pesquisa,"Ciências Humanas, Sociais Aplicadas e Educação"
+64,Inclusão_no_Ensino,Livre-Docência,1,INCT Inclusão no Ensino Superior e na Pesquisa,"Ciências Humanas, Sociais Aplicadas e Educação"
+65,Inclusão_no_Ensino,Pós-Doutorado,18,INCT Inclusão no Ensino Superior e na Pesquisa,"Ciências Humanas, Sociais Aplicadas e Educação"
+66,Informação_Quântica,Doutorado,60,INCT Informação Quântica,Ciências Exatas e da Terra
+67,Informação_Quântica,Graduação,14,INCT Informação Quântica,Ciências Exatas e da Terra
+68,Informação_Quântica,Livre-Docência,13,INCT Informação Quântica,Ciências Exatas e da Terra
+69,Informação_Quântica,Mestrado,14,INCT Informação Quântica,Ciências Exatas e da Terra
+70,Informação_Quântica,Pós-Doutorado,170,INCT Informação Quântica,Ciências Exatas e da Terra
+71,Inovação_em_Medicamentos,Doutorado,17,INCT Inovação em Medicamentos e Identificação de Novos Alvos Terapêuticos (INCT-INOVAMED),Ciências Biológicas
+72,Inovação_em_Medicamentos,Especialização,1,INCT Inovação em Medicamentos e Identificação de Novos Alvos Terapêuticos (INCT-INOVAMED),Ciências Biológicas
+73,Inovação_em_Medicamentos,Mestrado,3,INCT Inovação em Medicamentos e Identificação de Novos Alvos Terapêuticos (INCT-INOVAMED),Ciências Biológicas
+74,Inovação_em_Medicamentos,Pós-Doutorado,35,INCT Inovação em Medicamentos e Identificação de Novos Alvos Terapêuticos (INCT-INOVAMED),Ciências Biológicas
+75,Instituto_Geotécnico_de,Doutorado,13,INCT Instituto Geotécnico de Reabilitação do Sistema Encosta-Planície e Desastres Naturais,"Engenharias, Energias e Tecnologias da Informação"
+76,Instituto_Geotécnico_de,Livre-Docência,2,INCT Instituto Geotécnico de Reabilitação do Sistema Encosta-Planície e Desastres Naturais,"Engenharias, Energias e Tecnologias da Informação"
+77,Instituto_Geotécnico_de,Pós-Doutorado,32,INCT Instituto Geotécnico de Reabilitação do Sistema Encosta-Planície e Desastres Naturais,"Engenharias, Energias e Tecnologias da Informação"
+78,Instituto_da_Democracia,Doutorado,26,INCT Instituto da Democracia e da Democratização da Comunicação,"Ciências Humanas, Sociais Aplicadas e Educação"
+79,Instituto_da_Democracia,Graduação,3,INCT Instituto da Democracia e da Democratização da Comunicação,"Ciências Humanas, Sociais Aplicadas e Educação"
+80,Instituto_da_Democracia,Livre-Docência,7,INCT Instituto da Democracia e da Democratização da Comunicação,"Ciências Humanas, Sociais Aplicadas e Educação"
+81,Instituto_da_Democracia,Mestrado,8,INCT Instituto da Democracia e da Democratização da Comunicação,"Ciências Humanas, Sociais Aplicadas e Educação"
+82,Instituto_da_Democracia,Pós-Doutorado,35,INCT Instituto da Democracia e da Democratização da Comunicação,"Ciências Humanas, Sociais Aplicadas e Educação"
+83,Mar_COI_Oceanografia,Doutorado,22,INCT Mar COI - Oceanografia Integrada e Usos Múltiplos da Plataforma Continental e Oceano Adjacente - Centro de Oceanografia Integrada,Ciências Exatas e da Terra
+84,Mar_COI_Oceanografia,Livre-Docência,3,INCT Mar COI - Oceanografia Integrada e Usos Múltiplos da Plataforma Continental e Oceano Adjacente - Centro de Oceanografia Integrada,Ciências Exatas e da Terra
+85,Mar_COI_Oceanografia,Pós-Doutorado,35,INCT Mar COI - Oceanografia Integrada e Usos Múltiplos da Plataforma Continental e Oceano Adjacente - Centro de Oceanografia Integrada,Ciências Exatas e da Terra
+86,Microrganismos_Promotores_do,Doutorado,105,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+87,Microrganismos_Promotores_do,Especialização,6,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+88,Microrganismos_Promotores_do,Graduação,30,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+89,Microrganismos_Promotores_do,Livre-Docência,1,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+90,Microrganismos_Promotores_do,Mestrado,35,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+91,Microrganismos_Promotores_do,Pós-Doutorado,65,INCT Microrganismos Promotores do Crescimento de Plantas visando à Sustentabilidade Agrícola e à Responsabilidade Ambiental,Ciências Agrárias e Agronegócios
+92,Nanotecnologia_Farmacêutica_um,Doutorado,6,INCT Nanotecnologia Farmacêutica: uma abordagem transdisciplinar (INCT-NANOFARMA),Saúde
+93,Nanotecnologia_Farmacêutica_um,Graduação,2,INCT Nanotecnologia Farmacêutica: uma abordagem transdisciplinar (INCT-NANOFARMA),Saúde
+94,Nanotecnologia_Farmacêutica_um,Livre-Docência,19,INCT Nanotecnologia Farmacêutica: uma abordagem transdisciplinar (INCT-NANOFARMA),Saúde
+95,Nanotecnologia_Farmacêutica_um,Pós-Doutorado,28,INCT Nanotecnologia Farmacêutica: uma abordagem transdisciplinar (INCT-NANOFARMA),Saúde
+96,Neuroimmunomodulação,Doutorado,74,INCT Neuroimmunomodulação,Ciências Biológicas
+97,Neuroimmunomodulação,Ensino Fundamental,1,INCT Neuroimmunomodulação,Ciências Biológicas
+98,Neuroimmunomodulação,Ensino Médio,2,INCT Neuroimmunomodulação,Ciências Biológicas
+99,Neuroimmunomodulação,Especialização,2,INCT Neuroimmunomodulação,Ciências Biológicas
+100,Neuroimmunomodulação,Graduação,4,INCT Neuroimmunomodulação,Ciências Biológicas
+101,Neuroimmunomodulação,Livre-Docência,6,INCT Neuroimmunomodulação,Ciências Biológicas
+102,Neuroimmunomodulação,Mestrado,17,INCT Neuroimmunomodulação,Ciências Biológicas
+103,Neuroimmunomodulação,Pós-Doutorado,80,INCT Neuroimmunomodulação,Ciências Biológicas
+104,Observatório_Nacional_da,Doutorado,46,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+105,Observatório_Nacional_da,Especialização,2,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+106,Observatório_Nacional_da,Graduação,9,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+107,Observatório_Nacional_da,Livre-Docência,1,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+108,Observatório_Nacional_da,Mestrado,30,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+109,Observatório_Nacional_da,Pós-Doutorado,46,INCT Observatório Nacional da Dinâmica da Água e de Carbono no Bioma Caatinga (INCT-ONDACBC),"Engenharias, Energias e Tecnologias da Informação"
+110,Observatório_das_Dinâmicas,Doutorado,53,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+111,Observatório_das_Dinâmicas,Especialização,2,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+112,Observatório_das_Dinâmicas,Graduação,7,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+113,Observatório_das_Dinâmicas,Livre-Docência,8,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+114,Observatório_das_Dinâmicas,Mestrado,20,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+115,Observatório_das_Dinâmicas,Pós-Doutorado,51,INCT Observatório das Dinâmicas Socioambientais (INCT-ODISSEIA),"Ciências Humanas, Sociais Aplicadas e Educação"
+116,Processamento_e_Aplicação,Doutorado,42,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+117,Processamento_e_Aplicação,Especialização,3,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+118,Processamento_e_Aplicação,Graduação,18,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+119,Processamento_e_Aplicação,Livre-Docência,4,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+120,Processamento_e_Aplicação,Mestrado,33,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+121,Processamento_e_Aplicação,Pós-Doutorado,32,INCT Processamento e Aplicação de Ìmãs de Terras Raras para Indústria de Alta Tecnologia (INCT-PATRIA),"Engenharias, Energias e Tecnologias da Informação"
+122,Rede_Norte_Nordeste,Doutorado,98,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+123,Rede_Norte_Nordeste,Ensino Médio,1,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+124,Rede_Norte_Nordeste,Especialização,3,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+125,Rede_Norte_Nordeste,Graduação,6,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+126,Rede_Norte_Nordeste,Mestrado,6,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+127,Rede_Norte_Nordeste,Pós-Doutorado,53,INCT Rede Norte Nordeste de Fitoprodutos (INCT-Rennofito),Saúde
+128,Tecnologia_GNSS_no,Curso Técnico,1,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+129,Tecnologia_GNSS_no,Doutorado,20,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+130,Tecnologia_GNSS_no,Ensino Médio,1,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+131,Tecnologia_GNSS_no,Especialização,3,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+132,Tecnologia_GNSS_no,Graduação,15,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+133,Tecnologia_GNSS_no,Livre-Docência,3,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+134,Tecnologia_GNSS_no,Mestrado,15,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+135,Tecnologia_GNSS_no,Pós-Doutorado,9,INCT Tecnologia GNSS no suporte à Navegação Aérea,"Engenharias, Energias e Tecnologias da Informação"
+136,Tecnologias_Ambientais_Para,Doutorado,47,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+137,Tecnologias_Ambientais_Para,Ensino Médio,1,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+138,Tecnologias_Ambientais_Para,Graduação,4,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+139,Tecnologias_Ambientais_Para,Livre-Docência,4,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+140,Tecnologias_Ambientais_Para,Mestrado,10,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+141,Tecnologias_Ambientais_Para,Pós-Doutorado,45,INCT Tecnologias Ambientais Para a Valoração de Resíduos e Materiais Renováveis (INCT-MIDAS),Ciências Exatas e da Terra
+142,Tecnologias_Ecoeficientes_Avan,Doutorado,15,INCT Tecnologias Ecoeficientes Avançadas em Produtos Cimenticios,"Engenharias, Energias e Tecnologias da Informação"
+143,Tecnologias_Ecoeficientes_Avan,Graduação,1,INCT Tecnologias Ecoeficientes Avançadas em Produtos Cimenticios,"Engenharias, Energias e Tecnologias da Informação"
+144,Tecnologias_Ecoeficientes_Avan,Livre-Docência,9,INCT Tecnologias Ecoeficientes Avançadas em Produtos Cimenticios,"Engenharias, Energias e Tecnologias da Informação"
+145,Tecnologias_Ecoeficientes_Avan,Mestrado,6,INCT Tecnologias Ecoeficientes Avançadas em Produtos Cimenticios,"Engenharias, Energias e Tecnologias da Informação"
+146,Tecnologias_Ecoeficientes_Avan,Pós-Doutorado,17,INCT Tecnologias Ecoeficientes Avançadas em Produtos Cimenticios,"Engenharias, Energias e Tecnologias da Informação"
+147,Translacional_em_Medicina,Doutorado,12,INCT Translacional em Medicina,Ciências Biológicas
+148,Translacional_em_Medicina,Livre-Docência,27,INCT Translacional em Medicina,Ciências Biológicas
+149,Translacional_em_Medicina,Pós-Doutorado,41,INCT Translacional em Medicina,Ciências Biológicas
+150,Virtual_da_Flora,Doutorado,78,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+151,Virtual_da_Flora,Especialização,5,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+152,Virtual_da_Flora,Graduação,3,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+153,Virtual_da_Flora,Livre-Docência,7,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+154,Virtual_da_Flora,Mestrado,12,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+155,Virtual_da_Flora,Pós-Doutorado,45,INCT Virtual da Flora e dos Fungos,Ciências Biológicas
+156,da_Criosfera,Curso Técnico,2,INCT da Criosfera,Ecologia e Meio Ambiente
+157,da_Criosfera,Doutorado,167,INCT da Criosfera,Ecologia e Meio Ambiente
+158,da_Criosfera,Ensino Fundamental,1,INCT da Criosfera,Ecologia e Meio Ambiente
+159,da_Criosfera,Especialização,10,INCT da Criosfera,Ecologia e Meio Ambiente
+160,da_Criosfera,Graduação,44,INCT da Criosfera,Ecologia e Meio Ambiente
+161,da_Criosfera,Livre-Docência,5,INCT da Criosfera,Ecologia e Meio Ambiente
+162,da_Criosfera,Mestrado,66,INCT da Criosfera,Ecologia e Meio Ambiente
+163,da_Criosfera,Pós-Doutorado,174,INCT da Criosfera,Ecologia e Meio Ambiente
+164,da_Internet_do,Doutorado,12,INCT da Internet do Futuro,Ciências Exatas e da Terra
+165,da_Internet_do,Livre-Docência,24,INCT da Internet do Futuro,Ciências Exatas e da Terra
+166,da_Internet_do,Pós-Doutorado,18,INCT da Internet do Futuro,Ciências Exatas e da Terra
+167,de_Arqueologia_Paleontologia,Doutorado,9,"INCT de Arqueologia, Paleontologia e Ambiente do Semi-Árido do Nordeste do Brasil","Ciências Humanas, Sociais Aplicadas e Educação"
+168,de_Arqueologia_Paleontologia,Livre-Docência,2,"INCT de Arqueologia, Paleontologia e Ambiente do Semi-Árido do Nordeste do Brasil","Ciências Humanas, Sociais Aplicadas e Educação"
+169,de_Arqueologia_Paleontologia,Pós-Doutorado,20,"INCT de Arqueologia, Paleontologia e Ambiente do Semi-Árido do Nordeste do Brasil","Ciências Humanas, Sociais Aplicadas e Educação"
+170,de_Bioanalítica,Doutorado,1,INCT de Bioanalítica,Ciências Exatas e da Terra
+171,de_Bioanalítica,Livre-Docência,19,INCT de Bioanalítica,Ciências Exatas e da Terra
+172,de_Bioanalítica,Pós-Doutorado,23,INCT de Bioanalítica,Ciências Exatas e da Terra
+173,de_Bioinspiração_Moléculas,Doutorado,30,INCT de Bioinspiração - Moléculas bioinspiradas aplicadas ao incremento e qualidade da produção de proteína animal (INCT-Bioinspir) ,Ciências Biológicas
+174,de_Bioinspiração_Moléculas,Graduação,1,INCT de Bioinspiração - Moléculas bioinspiradas aplicadas ao incremento e qualidade da produção de proteína animal (INCT-Bioinspir) ,Ciências Biológicas
+175,de_Bioinspiração_Moléculas,Mestrado,1,INCT de Bioinspiração - Moléculas bioinspiradas aplicadas ao incremento e qualidade da produção de proteína animal (INCT-Bioinspir) ,Ciências Biológicas
+176,de_Bioinspiração_Moléculas,Pós-Doutorado,43,INCT de Bioinspiração - Moléculas bioinspiradas aplicadas ao incremento e qualidade da produção de proteína animal (INCT-Bioinspir) ,Ciências Biológicas
+177,de_Biologia_Estrutural,Curso Técnico,1,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+178,de_Biologia_Estrutural,Doutorado,99,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+179,de_Biologia_Estrutural,Ensino Médio,2,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+180,de_Biologia_Estrutural,Especialização,13,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+181,de_Biologia_Estrutural,Graduação,36,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+182,de_Biologia_Estrutural,Livre-Docência,8,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+183,de_Biologia_Estrutural,Mestrado,49,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+184,de_Biologia_Estrutural,Pós-Doutorado,207,INCT de Biologia Estrutural e Bioimagem,Ciências Biológicas
+185,de_Biomarcadores_em,Doutorado,2,INCT de Biomarcadores em Neuropsiquiatria (INCT-INBioN),Saúde
+186,de_Biomarcadores_em,Especialização,1,INCT de Biomarcadores em Neuropsiquiatria (INCT-INBioN),Saúde
+187,de_Biomarcadores_em,Livre-Docência,8,INCT de Biomarcadores em Neuropsiquiatria (INCT-INBioN),Saúde
+188,de_Biomarcadores_em,Pós-Doutorado,3,INCT de Biomarcadores em Neuropsiquiatria (INCT-INBioN),Saúde
+189,de_Catálise_em,Doutorado,10,INCT de Catálise em Sistemas Moleculares e Nanoestruturados,Ciências Exatas e da Terra
+190,de_Catálise_em,Graduação,3,INCT de Catálise em Sistemas Moleculares e Nanoestruturados,Ciências Exatas e da Terra
+191,de_Catálise_em,Livre-Docência,9,INCT de Catálise em Sistemas Moleculares e Nanoestruturados,Ciências Exatas e da Terra
+192,de_Catálise_em,Mestrado,1,INCT de Catálise em Sistemas Moleculares e Nanoestruturados,Ciências Exatas e da Terra
+193,de_Catálise_em,Pós-Doutorado,30,INCT de Catálise em Sistemas Moleculares e Nanoestruturados,Ciências Exatas e da Terra
+194,de_Ciência_Animal,Doutorado,29,INCT de Ciência Animal,Ciências Agrárias e Agronegócios
+195,de_Ciência_Animal,Livre-Docência,10,INCT de Ciência Animal,Ciências Agrárias e Agronegócios
+196,de_Ciência_Animal,Pós-Doutorado,45,INCT de Ciência Animal,Ciências Agrárias e Agronegócios
+197,de_Doenças_Tropicais,Doutorado,6,INCT de Doenças Tropicais,Saúde
+198,de_Doenças_Tropicais,Livre-Docência,3,INCT de Doenças Tropicais,Saúde
+199,de_Doenças_Tropicais,Pós-Doutorado,12,INCT de Doenças Tropicais,Saúde
+200,de_Energia_Elétrica,Doutorado,44,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+201,de_Energia_Elétrica,Especialização,2,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+202,de_Energia_Elétrica,Graduação,20,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+203,de_Energia_Elétrica,Livre-Docência,4,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+204,de_Energia_Elétrica,Mestrado,11,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+205,de_Energia_Elétrica,Pós-Doutorado,43,INCT de Energia Elétrica (INCT-INERGE),"Engenharias, Energias e Tecnologias da Informação"
+206,de_Energia_e,Doutorado,32,INCT de Energia e Ambiente,Ciências Exatas e da Terra
+207,de_Energia_e,Graduação,3,INCT de Energia e Ambiente,Ciências Exatas e da Terra
+208,de_Energia_e,Livre-Docência,1,INCT de Energia e Ambiente,Ciências Exatas e da Terra
+209,de_Energia_e,Mestrado,3,INCT de Energia e Ambiente,Ciências Exatas e da Terra
+210,de_Energia_e,Pós-Doutorado,53,INCT de Energia e Ambiente,Ciências Exatas e da Terra
+211,de_Energias_Oceânicas,Doutorado,23,INCT de Energias Oceânicas e Fluviais (INCT-INEOF),"Engenharias, Energias e Tecnologias da Informação"
+212,de_Energias_Oceânicas,Graduação,1,INCT de Energias Oceânicas e Fluviais (INCT-INEOF),"Engenharias, Energias e Tecnologias da Informação"
+213,de_Energias_Oceânicas,Mestrado,7,INCT de Energias Oceânicas e Fluviais (INCT-INEOF),"Engenharias, Energias e Tecnologias da Informação"
+214,de_Energias_Oceânicas,Pós-Doutorado,12,INCT de Energias Oceânicas e Fluviais (INCT-INEOF),"Engenharias, Energias e Tecnologias da Informação"
+215,de_Engenharia_de,Doutorado,7,INCT de Engenharia de Superfícies,Ciências Exatas e da Terra
+216,de_Engenharia_de,Livre-Docência,3,INCT de Engenharia de Superfícies,Ciências Exatas e da Terra
+217,de_Engenharia_de,Pós-Doutorado,38,INCT de Engenharia de Superfícies,Ciências Exatas e da Terra
+218,de_Entomologia_Molecular,Doutorado,84,INCT de Entomologia Molecular,Ciências Biológicas
+219,de_Entomologia_Molecular,Livre-Docência,10,INCT de Entomologia Molecular,Ciências Biológicas
+220,de_Entomologia_Molecular,Mestrado,2,INCT de Entomologia Molecular,Ciências Biológicas
+221,de_Entomologia_Molecular,Pós-Doutorado,206,INCT de Entomologia Molecular,Ciências Biológicas
+222,de_Epidemiologia_da,Doutorado,53,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+223,de_Epidemiologia_da,Ensino Fundamental,1,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+224,de_Epidemiologia_da,Ensino Médio,7,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+225,de_Epidemiologia_da,Especialização,6,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+226,de_Epidemiologia_da,Graduação,13,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+227,de_Epidemiologia_da,Livre-Docência,7,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+228,de_Epidemiologia_da,Mestrado,28,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+229,de_Epidemiologia_da,Pós-Doutorado,32,INCT de Epidemiologia da Amazônia Ocidental,Saúde
+230,de_Estudos_Comparados,Doutorado,185,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+231,de_Estudos_Comparados,Ensino Fundamental,1,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+232,de_Estudos_Comparados,Ensino Médio,4,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+233,de_Estudos_Comparados,Especialização,12,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+234,de_Estudos_Comparados,Graduação,85,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+235,de_Estudos_Comparados,Livre-Docência,2,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+236,de_Estudos_Comparados,Mestrado,119,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+237,de_Estudos_Comparados,Pós-Doutorado,125,INCT de Estudos Comparados em Administração Institucional de Conflitos,"Ciências Humanas, Sociais Aplicadas e Educação"
+238,de_Fluidos_Complexos,Doutorado,12,INCT de Fluidos Complexos,Ciências Exatas e da Terra
+239,de_Fluidos_Complexos,Livre-Docência,22,INCT de Fluidos Complexos,Ciências Exatas e da Terra
+240,de_Fluidos_Complexos,Pós-Doutorado,46,INCT de Fluidos Complexos,Ciências Exatas e da Terra
+241,de_Fotônica,Curso Técnico,2,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+242,de_Fotônica,Doutorado,101,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+243,de_Fotônica,Especialização,14,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+244,de_Fotônica,Graduação,23,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+245,de_Fotônica,Livre-Docência,13,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+246,de_Fotônica,Mestrado,43,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+247,de_Fotônica,Pós-Doutorado,111,INCT de Fotônica (INCT-INFO),Ciências Exatas e da Terra
+248,de_Frutos_Tropicais,Doutorado,13,INCT de Frutos Tropicais,Ciências Agrárias e Agronegócios
+249,de_Frutos_Tropicais,Especialização,1,INCT de Frutos Tropicais,Ciências Agrárias e Agronegócios
+250,de_Frutos_Tropicais,Livre-Docência,3,INCT de Frutos Tropicais,Ciências Agrárias e Agronegócios
+251,de_Frutos_Tropicais,Mestrado,1,INCT de Frutos Tropicais,Ciências Agrárias e Agronegócios
+252,de_Frutos_Tropicais,Pós-Doutorado,16,INCT de Frutos Tropicais,Ciências Agrárias e Agronegócios
+253,de_Fármacos_e,Doutorado,16,INCT de Fármacos e Medicamentos,Ciências Exatas e da Terra
+254,de_Fármacos_e,Graduação,1,INCT de Fármacos e Medicamentos,Ciências Exatas e da Terra
+255,de_Fármacos_e,Livre-Docência,3,INCT de Fármacos e Medicamentos,Ciências Exatas e da Terra
+256,de_Fármacos_e,Pós-Doutorado,43,INCT de Fármacos e Medicamentos,Ciências Exatas e da Terra
+257,de_Genética_Médica,Curso Técnico,1,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+258,de_Genética_Médica,Doutorado,85,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+259,de_Genética_Médica,Especialização,6,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+260,de_Genética_Médica,Graduação,15,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+261,de_Genética_Médica,Livre-Docência,6,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+262,de_Genética_Médica,Mestrado,34,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+263,de_Genética_Médica,Pós-Doutorado,66,INCT de Genética Médica Populacional (INCT-INAGEMP),Ciências Biológicas
+264,de_Genômica_Comparativa,Doutorado,42,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+265,de_Genômica_Comparativa,Especialização,3,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+266,de_Genômica_Comparativa,Graduação,17,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+267,de_Genômica_Comparativa,Livre-Docência,7,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+268,de_Genômica_Comparativa,Mestrado,12,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+269,de_Genômica_Comparativa,Pós-Doutorado,57,INCT de Genômica Comparativa e Funcional e Melhoramento Assistido de Citros.,Ciências Agrárias e Agronegócios
+270,de_Geofísica_do,Doutorado,46,INCT de Geofísica do Petróleo,Ciências Exatas e da Terra
+271,de_Geofísica_do,Graduação,11,INCT de Geofísica do Petróleo,Ciências Exatas e da Terra
+272,de_Geofísica_do,Livre-Docência,6,INCT de Geofísica do Petróleo,Ciências Exatas e da Terra
+273,de_Geofísica_do,Mestrado,10,INCT de Geofísica do Petróleo,Ciências Exatas e da Terra
+274,de_Geofísica_do,Pós-Doutorado,27,INCT de Geofísica do Petróleo,Ciências Exatas e da Terra
+275,de_Hormônios_e,Doutorado,43,INCT de Hormônios e Saúde da Mulher,Saúde
+276,de_Hormônios_e,Especialização,1,INCT de Hormônios e Saúde da Mulher,Saúde
+277,de_Hormônios_e,Graduação,2,INCT de Hormônios e Saúde da Mulher,Saúde
+278,de_Hormônios_e,Livre-Docência,14,INCT de Hormônios e Saúde da Mulher,Saúde
+279,de_Hormônios_e,Mestrado,6,INCT de Hormônios e Saúde da Mulher,Saúde
+280,de_Hormônios_e,Pós-Doutorado,35,INCT de Hormônios e Saúde da Mulher,Saúde
+281,de_Inovação_em,Doutorado,119,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+282,de_Inovação_em,Ensino Médio,1,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+283,de_Inovação_em,Especialização,8,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+284,de_Inovação_em,Graduação,14,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+285,de_Inovação_em,Livre-Docência,2,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+286,de_Inovação_em,Mestrado,23,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+287,de_Inovação_em,Pós-Doutorado,102,INCT de Inovação em Doenças de Populações Negligenciadas (INCT-IDPN),Saúde
+288,de_Investigação_em,Doutorado,3,INCT de Investigação em Imunologia,Ciências Biológicas
+289,de_Investigação_em,Livre-Docência,16,INCT de Investigação em Imunologia,Ciências Biológicas
+290,de_Investigação_em,Pós-Doutorado,16,INCT de Investigação em Imunologia,Ciências Biológicas
+291,de_Madeiras_da,Doutorado,40,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+292,de_Madeiras_da,Especialização,1,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+293,de_Madeiras_da,Graduação,1,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+294,de_Madeiras_da,Livre-Docência,3,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+295,de_Madeiras_da,Mestrado,5,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+296,de_Madeiras_da,Pós-Doutorado,19,INCT de Madeiras da Amazônia,Ciências Agrárias e Agronegócios
+297,de_Matemática,Doutorado,267,INCT de Matemática,Ciências Exatas e da Terra
+298,de_Matemática,Especialização,1,INCT de Matemática,Ciências Exatas e da Terra
+299,de_Matemática,Graduação,1,INCT de Matemática,Ciências Exatas e da Terra
+300,de_Matemática,Livre-Docência,124,INCT de Matemática,Ciências Exatas e da Terra
+301,de_Matemática,Mestrado,16,INCT de Matemática,Ciências Exatas e da Terra
+302,de_Matemática,Pós-Doutorado,405,INCT de Matemática,Ciências Exatas e da Terra
+303,de_Nanomateriais_de,Doutorado,11,INCT de Nanomateriais de Carbono,Ciências Exatas e da Terra
+304,de_Nanomateriais_de,Graduação,1,INCT de Nanomateriais de Carbono,Ciências Exatas e da Terra
+305,de_Nanomateriais_de,Livre-Docência,3,INCT de Nanomateriais de Carbono,Ciências Exatas e da Terra
+306,de_Nanomateriais_de,Mestrado,1,INCT de Nanomateriais de Carbono,Ciências Exatas e da Terra
+307,de_Nanomateriais_de,Pós-Doutorado,102,INCT de Nanomateriais de Carbono,Ciências Exatas e da Terra
+308,de_Neurociência_Translacional,Doutorado,14,INCT de Neurociência Translacional,Saúde
+309,de_Neurociência_Translacional,Livre-Docência,9,INCT de Neurociência Translacional,Saúde
+310,de_Neurociência_Translacional,Pós-Doutorado,111,INCT de Neurociência Translacional,Saúde
+311,de_Obesidade_e,Doutorado,6,INCT de Obesidade e Diabetes,Saúde
+312,de_Obesidade_e,Livre-Docência,22,INCT de Obesidade e Diabetes,Saúde
+313,de_Obesidade_e,Pós-Doutorado,7,INCT de Obesidade e Diabetes,Saúde
+314,de_Oncogenômica_e,Doutorado,69,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+315,de_Oncogenômica_e,Especialização,4,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+316,de_Oncogenômica_e,Graduação,5,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+317,de_Oncogenômica_e,Livre-Docência,10,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+318,de_Oncogenômica_e,Mestrado,20,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+319,de_Oncogenômica_e,Pós-Doutorado,44,INCT de Oncogenômica e Inovação Terapêutica,Saúde
+320,de_Pesquisa_em,Doutorado,9,INCT de Pesquisa em Resistência a Antimicrobianos,Ciências Biológicas
+321,de_Pesquisa_em,Pós-Doutorado,10,INCT de Pesquisa em Resistência a Antimicrobianos,Ciências Biológicas
+322,de_Políticas_Públicas,Doutorado,13,"INCT de Políticas Públicas, Estratégias e Desenvolvimento","Ciências Humanas, Sociais Aplicadas e Educação"
+323,de_Políticas_Públicas,Livre-Docência,3,"INCT de Políticas Públicas, Estratégias e Desenvolvimento","Ciências Humanas, Sociais Aplicadas e Educação"
+324,de_Políticas_Públicas,Mestrado,2,"INCT de Políticas Públicas, Estratégias e Desenvolvimento","Ciências Humanas, Sociais Aplicadas e Educação"
+325,de_Políticas_Públicas,Pós-Doutorado,41,"INCT de Políticas Públicas, Estratégias e Desenvolvimento","Ciências Humanas, Sociais Aplicadas e Educação"
+326,de_Psiquiatria_do,Doutorado,28,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+327,de_Psiquiatria_do,Especialização,4,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+328,de_Psiquiatria_do,Graduação,4,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+329,de_Psiquiatria_do,Livre-Docência,18,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+330,de_Psiquiatria_do,Mestrado,4,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+331,de_Psiquiatria_do,Pós-Doutorado,38,INCT de Psiquiatria do Desenvolvimento para Crianças e Adolescentes,Saúde
+332,de_Semioquímicos_na,Doutorado,3,INCT de Semioquímicos na Agricultura,Ciências Agrárias e Agronegócios
+333,de_Semioquímicos_na,Livre-Docência,2,INCT de Semioquímicos na Agricultura,Ciências Agrárias e Agronegócios
+334,de_Semioquímicos_na,Pós-Doutorado,8,INCT de Semioquímicos na Agricultura,Ciências Agrárias e Agronegócios
+335,de_Sistemas_Complexos,Doutorado,25,INCT de Sistemas Complexos,Ciências Exatas e da Terra
+336,de_Sistemas_Complexos,Graduação,1,INCT de Sistemas Complexos,Ciências Exatas e da Terra
+337,de_Sistemas_Complexos,Livre-Docência,2,INCT de Sistemas Complexos,Ciências Exatas e da Terra
+338,de_Sistemas_Complexos,Mestrado,2,INCT de Sistemas Complexos,Ciências Exatas e da Terra
+339,de_Sistemas_Complexos,Pós-Doutorado,46,INCT de Sistemas Complexos,Ciências Exatas e da Terra
+340,de_Vacinas,Doutorado,5,INCT de Vacinas,Ciências Biológicas
+341,de_Vacinas,Livre-Docência,7,INCT de Vacinas,Ciências Biológicas
+342,de_Vacinas,Pós-Doutorado,26,INCT de Vacinas,Ciências Biológicas
+343,de_Óptica_Básica,Curso Técnico,2,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+344,de_Óptica_Básica,Doutorado,9,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+345,de_Óptica_Básica,Ensino Médio,1,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+346,de_Óptica_Básica,Graduação,3,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+347,de_Óptica_Básica,Livre-Docência,20,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+348,de_Óptica_Básica,Mestrado,3,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+349,de_Óptica_Básica,Pós-Doutorado,33,INCT de Óptica Básica e Aplicada às Ciências da Vida,Ciências Exatas e da Terra
+350,do_Bioetanol,Doutorado,25,INCT do Bioetanol,Ciências Biológicas
+351,do_Bioetanol,Especialização,2,INCT do Bioetanol,Ciências Biológicas
+352,do_Bioetanol,Graduação,3,INCT do Bioetanol,Ciências Biológicas
+353,do_Bioetanol,Livre-Docência,15,INCT do Bioetanol,Ciências Biológicas
+354,do_Bioetanol,Mestrado,3,INCT do Bioetanol,Ciências Biológicas
+355,do_Bioetanol,Pós-Doutorado,34,INCT do Bioetanol,Ciências Biológicas
+356,do_Café,Doutorado,64,INCT do Café,Ciências Agrárias e Agronegócios
+357,do_Café,Especialização,1,INCT do Café,Ciências Agrárias e Agronegócios
+358,do_Café,Graduação,1,INCT do Café,Ciências Agrárias e Agronegócios
+359,do_Café,Mestrado,1,INCT do Café,Ciências Agrárias e Agronegócios
+360,do_Café,Pós-Doutorado,49,INCT do Café,Ciências Agrárias e Agronegócios
+361,do_e_Universo,Doutorado,23,INCT do e-Universo,Ciências Exatas e da Terra
+362,do_e_Universo,Graduação,16,INCT do e-Universo,Ciências Exatas e da Terra
+363,do_e_Universo,Livre-Docência,2,INCT do e-Universo,Ciências Exatas e da Terra
+364,do_e_Universo,Mestrado,14,INCT do e-Universo,Ciências Exatas e da Terra
+365,do_e_Universo,Pós-Doutorado,44,INCT do e-Universo,Ciências Exatas e da Terra
+366,dos_Hymenoptera_Parasitóides,Curso Técnico,1,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+367,dos_Hymenoptera_Parasitóides,Doutorado,119,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+368,dos_Hymenoptera_Parasitóides,Ensino Médio,3,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+369,dos_Hymenoptera_Parasitóides,Especialização,8,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+370,dos_Hymenoptera_Parasitóides,Graduação,44,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+371,dos_Hymenoptera_Parasitóides,Livre-Docência,3,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+372,dos_Hymenoptera_Parasitóides,Mestrado,55,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+373,dos_Hymenoptera_Parasitóides,Pós-Doutorado,76,INCT dos Hymenoptera Parasitóides ,Ciências Biológicas
+374,em_Ambientes_Marinhos,Doutorado,79,INCT em Ambientes Marinhos Tropicais,Ciências Exatas e da Terra
+375,em_Ambientes_Marinhos,Livre-Docência,6,INCT em Ambientes Marinhos Tropicais,Ciências Exatas e da Terra
+376,em_Ambientes_Marinhos,Mestrado,1,INCT em Ambientes Marinhos Tropicais,Ciências Exatas e da Terra
+377,em_Ambientes_Marinhos,Pós-Doutorado,86,INCT em Ambientes Marinhos Tropicais,Ciências Exatas e da Terra
+378,em_Biodiversidade_e,Doutorado,98,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+379,em_Biodiversidade_e,Ensino Médio,2,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+380,em_Biodiversidade_e,Especialização,4,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+381,em_Biodiversidade_e,Graduação,27,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+382,em_Biodiversidade_e,Livre-Docência,22,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+383,em_Biodiversidade_e,Mestrado,26,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+384,em_Biodiversidade_e,Pós-Doutorado,88,INCT em Biodiversidade e Produtos Naturais (INCT-BioNat),Ciências Exatas e da Terra
+385,em_Comunicação_Pública,Doutorado,43,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+386,em_Comunicação_Pública,Especialização,4,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+387,em_Comunicação_Pública,Graduação,7,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+388,em_Comunicação_Pública,Livre-Docência,2,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+389,em_Comunicação_Pública,Mestrado,8,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+390,em_Comunicação_Pública,Pós-Doutorado,27,INCT em Comunicação Pública da Ciência e Tecnologia,"Ciências Humanas, Sociais Aplicadas e Educação"
+391,em_Células_Tronco,Doutorado,22,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+392,em_Células_Tronco,Especialização,2,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+393,em_Células_Tronco,Graduação,4,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+394,em_Células_Tronco,Livre-Docência,31,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+395,em_Células_Tronco,Mestrado,5,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+396,em_Células_Tronco,Pós-Doutorado,43,INCT em Células-Tronco e Terapia Celular no Câncer,Saúde
+397,em_Democracia_Digital,Doutorado,31,INCT em Democracia Digital,"Ciências Humanas, Sociais Aplicadas e Educação"
+398,em_Democracia_Digital,Pós-Doutorado,53,INCT em Democracia Digital,"Ciências Humanas, Sociais Aplicadas e Educação"
+399,em_Dengue_e,Doutorado,7,INCT em Dengue e Interação Microorganismo-hospedeiro,Ciências Biológicas
+400,em_Dengue_e,Livre-Docência,5,INCT em Dengue e Interação Microorganismo-hospedeiro,Ciências Biológicas
+401,em_Dengue_e,Pós-Doutorado,44,INCT em Dengue e Interação Microorganismo-hospedeiro,Ciências Biológicas
+402,em_Eletrônica_Orgânica,Doutorado,13,INCT em Eletrônica Orgânica (INCT-INEO),Ciências Exatas e da Terra
+403,em_Eletrônica_Orgânica,Livre-Docência,23,INCT em Eletrônica Orgânica (INCT-INEO),Ciências Exatas e da Terra
+404,em_Eletrônica_Orgânica,Pós-Doutorado,60,INCT em Eletrônica Orgânica (INCT-INEO),Ciências Exatas e da Terra
+405,em_Estudos_Interdisciplinares,Doutorado,63,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+406,em_Estudos_Interdisciplinares,Especialização,1,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+407,em_Estudos_Interdisciplinares,Graduação,4,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+408,em_Estudos_Interdisciplinares,Livre-Docência,9,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+409,em_Estudos_Interdisciplinares,Mestrado,13,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+410,em_Estudos_Interdisciplinares,Pós-Doutorado,102,INCT em Estudos Interdisciplinares e Transdisciplinares em Ecologia e Evolução (INCT-TREE),Ciências Biológicas
+411,em_Estudos_Tectônicos,Doutorado,25,INCT em Estudos Tectônicos,Ciências Exatas e da Terra
+412,em_Estudos_Tectônicos,Livre-Docência,7,INCT em Estudos Tectônicos,Ciências Exatas e da Terra
+413,em_Estudos_Tectônicos,Mestrado,4,INCT em Estudos Tectônicos,Ciências Exatas e da Terra
+414,em_Estudos_Tectônicos,Pós-Doutorado,17,INCT em Estudos Tectônicos,Ciências Exatas e da Terra
+415,em_Fotônica_Aplicada,Doutorado,21,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+416,em_Fotônica_Aplicada,Especialização,1,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+417,em_Fotônica_Aplicada,Graduação,4,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+418,em_Fotônica_Aplicada,Livre-Docência,22,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+419,em_Fotônica_Aplicada,Mestrado,9,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+420,em_Fotônica_Aplicada,Pós-Doutorado,37,INCT em Fotônica Aplicada à Biologia Celular (INCT-INFABiC),Ciências Biológicas
+421,em_Geração_Distribuída,Doutorado,43,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+422,em_Geração_Distribuída,Especialização,1,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+423,em_Geração_Distribuída,Graduação,2,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+424,em_Geração_Distribuída,Livre-Docência,2,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+425,em_Geração_Distribuída,Mestrado,5,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+426,em_Geração_Distribuída,Pós-Doutorado,19,INCT em Geração Distribuída de Energia Elétrica,"Engenharias, Energias e Tecnologias da Informação"
+427,em_Materiais_Complexos,Curso Técnico,2,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+428,em_Materiais_Complexos,Doutorado,77,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+429,em_Materiais_Complexos,Ensino Médio,1,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+430,em_Materiais_Complexos,Especialização,2,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+431,em_Materiais_Complexos,Graduação,39,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+432,em_Materiais_Complexos,Livre-Docência,14,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+433,em_Materiais_Complexos,Mestrado,37,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+434,em_Materiais_Complexos,Pós-Doutorado,106,INCT em Materiais Complexos Funcionais (INCT-Inomat),Ciências Exatas e da Terra
+435,em_Medicina_Assistida,Doutorado,115,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+436,em_Medicina_Assistida,Especialização,2,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+437,em_Medicina_Assistida,Graduação,15,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+438,em_Medicina_Assistida,Livre-Docência,26,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+439,em_Medicina_Assistida,Mestrado,43,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+440,em_Medicina_Assistida,Pós-Doutorado,84,INCT em Medicina Assistida por Computação Científica (INCT-MACC),"Engenharias, Energias e Tecnologias da Informação"
+441,em_Medicina_Regenerativa,Curso Técnico,1,INCT em Medicina Regenerativa,Saúde
+442,em_Medicina_Regenerativa,Doutorado,146,INCT em Medicina Regenerativa,Saúde
+443,em_Medicina_Regenerativa,Ensino Médio,1,INCT em Medicina Regenerativa,Saúde
+444,em_Medicina_Regenerativa,Especialização,8,INCT em Medicina Regenerativa,Saúde
+445,em_Medicina_Regenerativa,Graduação,47,INCT em Medicina Regenerativa,Saúde
+446,em_Medicina_Regenerativa,Livre-Docência,13,INCT em Medicina Regenerativa,Saúde
+447,em_Medicina_Regenerativa,Mestrado,53,INCT em Medicina Regenerativa,Saúde
+448,em_Medicina_Regenerativa,Pós-Doutorado,148,INCT em Medicina Regenerativa,Saúde
+449,em_Refrigeração_e,Doutorado,13,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+450,em_Refrigeração_e,Ensino Médio,1,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+451,em_Refrigeração_e,Especialização,1,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+452,em_Refrigeração_e,Graduação,33,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+453,em_Refrigeração_e,Mestrado,29,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+454,em_Refrigeração_e,Pós-Doutorado,6,INCT em Refrigeração e Termofísica,"Engenharias, Energias e Tecnologias da Informação"
+455,em_Teranóstica_e,Doutorado,63,INCT em Teranóstica e Nanobiotecnologia (INCT-TeraNano),Saúde
+456,em_Teranóstica_e,Graduação,22,INCT em Teranóstica e Nanobiotecnologia (INCT-TeraNano),Saúde
+457,em_Teranóstica_e,Livre-Docência,5,INCT em Teranóstica e Nanobiotecnologia (INCT-TeraNano),Saúde
+458,em_Teranóstica_e,Mestrado,23,INCT em Teranóstica e Nanobiotecnologia (INCT-TeraNano),Saúde
+459,em_Teranóstica_e,Pós-Doutorado,104,INCT em Teranóstica e Nanobiotecnologia (INCT-TeraNano),Saúde
+460,em_Tuberculose,Doutorado,20,INCT em Tuberculose,Ciências Biológicas
+461,em_Tuberculose,Especialização,1,INCT em Tuberculose,Ciências Biológicas
+462,em_Tuberculose,Livre-Docência,4,INCT em Tuberculose,Ciências Biológicas
+463,em_Tuberculose,Mestrado,3,INCT em Tuberculose,Ciências Biológicas
+464,em_Tuberculose,Pós-Doutorado,30,INCT em Tuberculose,Ciências Biológicas
+465,em_Áreas_Úmidas,Doutorado,21,"INCT em Áreas Úmidas II: Inovações em Pesquisa, Manejo e Políticas Públicas em Áreas Úmidas  (INCT-INAU II)",Ecologia e Meio Ambiente
+466,em_Áreas_Úmidas,Especialização,1,"INCT em Áreas Úmidas II: Inovações em Pesquisa, Manejo e Políticas Públicas em Áreas Úmidas  (INCT-INAU II)",Ecologia e Meio Ambiente
+467,em_Áreas_Úmidas,Graduação,4,"INCT em Áreas Úmidas II: Inovações em Pesquisa, Manejo e Políticas Públicas em Áreas Úmidas  (INCT-INAU II)",Ecologia e Meio Ambiente
+468,em_Áreas_Úmidas,Livre-Docência,2,"INCT em Áreas Úmidas II: Inovações em Pesquisa, Manejo e Políticas Públicas em Áreas Úmidas  (INCT-INAU II)",Ecologia e Meio Ambiente
+469,em_Áreas_Úmidas,Pós-Doutorado,30,"INCT em Áreas Úmidas II: Inovações em Pesquisa, Manejo e Políticas Públicas em Áreas Úmidas  (INCT-INAU II)",Ecologia e Meio Ambiente
+470,para_Adaptações_da,Doutorado,13,INCT para Adaptações da Biota Aquática da Amazônia (INCT-ADAPTA-II),Ciências Biológicas
+471,para_Adaptações_da,Livre-Docência,4,INCT para Adaptações da Biota Aquática da Amazônia (INCT-ADAPTA-II),Ciências Biológicas
+472,para_Adaptações_da,Pós-Doutorado,16,INCT para Adaptações da Biota Aquática da Amazônia (INCT-ADAPTA-II),Ciências Biológicas
+473,para_Avaliação_de,Doutorado,119,INCT para Avaliação de Tecnologias em Saúde,Saúde
+474,para_Avaliação_de,Especialização,5,INCT para Avaliação de Tecnologias em Saúde,Saúde
+475,para_Avaliação_de,Graduação,18,INCT para Avaliação de Tecnologias em Saúde,Saúde
+476,para_Avaliação_de,Livre-Docência,7,INCT para Avaliação de Tecnologias em Saúde,Saúde
+477,para_Avaliação_de,Mestrado,34,INCT para Avaliação de Tecnologias em Saúde,Saúde
+478,para_Avaliação_de,Pós-Doutorado,63,INCT para Avaliação de Tecnologias em Saúde,Saúde
+479,para_Doenças_Cerebrais,Doutorado,167,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+480,para_Doenças_Cerebrais,Ensino Médio,1,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+481,para_Doenças_Cerebrais,Especialização,26,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+482,para_Doenças_Cerebrais,Graduação,37,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+483,para_Doenças_Cerebrais,Livre-Docência,7,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+484,para_Doenças_Cerebrais,Mestrado,65,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+485,para_Doenças_Cerebrais,Pós-Doutorado,191,"INCT para Doenças Cerebrais, Excitoxicidade e Neuroproteção",Ciências Biológicas
+486,para_Engenharia_de,Doutorado,48,INCT para Engenharia de Software,Ciências Exatas e da Terra
+487,para_Engenharia_de,Graduação,1,INCT para Engenharia de Software,Ciências Exatas e da Terra
+488,para_Engenharia_de,Livre-Docência,2,INCT para Engenharia de Software,Ciências Exatas e da Terra
+489,para_Engenharia_de,Mestrado,8,INCT para Engenharia de Software,Ciências Exatas e da Terra
+490,para_Engenharia_de,Pós-Doutorado,51,INCT para Engenharia de Software,Ciências Exatas e da Terra
+491,para_Estudos_sobre,Doutorado,44,INCT para Estudos sobre os Estados Unidos,"Ciências Humanas, Sociais Aplicadas e Educação"
+492,para_Estudos_sobre,Livre-Docência,12,INCT para Estudos sobre os Estados Unidos,"Ciências Humanas, Sociais Aplicadas e Educação"
+493,para_Estudos_sobre,Mestrado,3,INCT para Estudos sobre os Estados Unidos,"Ciências Humanas, Sociais Aplicadas e Educação"
+494,para_Estudos_sobre,Pós-Doutorado,39,INCT para Estudos sobre os Estados Unidos,"Ciências Humanas, Sociais Aplicadas e Educação"
+495,para_Mudanças_Climáticas,Doutorado,101,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+496,para_Mudanças_Climáticas,Especialização,4,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+497,para_Mudanças_Climáticas,Graduação,8,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+498,para_Mudanças_Climáticas,Livre-Docência,22,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+499,para_Mudanças_Climáticas,Mestrado,19,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+500,para_Mudanças_Climáticas,Pós-Doutorado,96,INCT para Mudanças Climáticas  (INCT-MC),Ciências Exatas e da Terra
+501,para_Sistemas_Autônomos,Doutorado,13,INCT para Sistemas Autônomos Cooperativos Aplicados em Segurança e Meio Ambiente,"Engenharias, Energias e Tecnologias da Informação"
+502,para_Sistemas_Autônomos,Graduação,3,INCT para Sistemas Autônomos Cooperativos Aplicados em Segurança e Meio Ambiente,"Engenharias, Energias e Tecnologias da Informação"
+503,para_Sistemas_Autônomos,Livre-Docência,10,INCT para Sistemas Autônomos Cooperativos Aplicados em Segurança e Meio Ambiente,"Engenharias, Energias e Tecnologias da Informação"
+504,para_Sistemas_Autônomos,Mestrado,1,INCT para Sistemas Autônomos Cooperativos Aplicados em Segurança e Meio Ambiente,"Engenharias, Energias e Tecnologias da Informação"
+505,para_Sistemas_Autônomos,Pós-Doutorado,12,INCT para Sistemas Autônomos Cooperativos Aplicados em Segurança e Meio Ambiente,"Engenharias, Energias e Tecnologias da Informação"
+506,para_a_Cadeia,Doutorado,24,INCT para a Cadeia Produtiva do Leite,Ciências Agrárias e Agronegócios
+507,para_a_Cadeia,Livre-Docência,4,INCT para a Cadeia Produtiva do Leite,Ciências Agrárias e Agronegócios
+508,para_a_Cadeia,Mestrado,2,INCT para a Cadeia Produtiva do Leite,Ciências Agrárias e Agronegócios
+509,para_a_Cadeia,Pós-Doutorado,30,INCT para a Cadeia Produtiva do Leite,Ciências Agrárias e Agronegócios
+510,para_o_Controle,Doutorado,18,INCT para o Controle Biorracional de Inseto Pragas e Fitopatógenos,Ciências Exatas e da Terra
+511,para_o_Controle,Livre-Docência,6,INCT para o Controle Biorracional de Inseto Pragas e Fitopatógenos,Ciências Exatas e da Terra
+512,para_o_Controle,Pós-Doutorado,28,INCT para o Controle Biorracional de Inseto Pragas e Fitopatógenos,Ciências Exatas e da Terra
+513,sobre_Comportamento_Cognição,Doutorado,10,"INCT sobre Comportamento, Cognição e Ensino: Aprendizagem Relacional e Funcionamento Simbólico  (INCT-ECCE)","Ciências Humanas, Sociais Aplicadas e Educação"
+514,sobre_Comportamento_Cognição,Livre-Docência,8,"INCT sobre Comportamento, Cognição e Ensino: Aprendizagem Relacional e Funcionamento Simbólico  (INCT-ECCE)","Ciências Humanas, Sociais Aplicadas e Educação"
+515,sobre_Comportamento_Cognição,Mestrado,2,"INCT sobre Comportamento, Cognição e Ensino: Aprendizagem Relacional e Funcionamento Simbólico  (INCT-ECCE)","Ciências Humanas, Sociais Aplicadas e Educação"
+516,sobre_Comportamento_Cognição,Pós-Doutorado,52,"INCT sobre Comportamento, Cognição e Ensino: Aprendizagem Relacional e Funcionamento Simbólico  (INCT-ECCE)","Ciências Humanas, Sociais Aplicadas e Educação"

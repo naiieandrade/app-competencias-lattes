@@ -1,0 +1,806 @@
+area,periodo,texto_md,texto_contextualizacao,texto_coautoria
+0,Ciências Exatas e da Terra,2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, o conjunto de INCTs da área de Ciências Exatas e da Terra analisados reportou a produção de 430.542 contribuições científicas.
+- O grupo total era composto por 4.377 integrantes, demonstrando alto nível de multidisciplinariedade: 3.652 possuíam doutorado, 366 mestrados e 197 graduação.
+- Foi observada uma alta assimetria no tamanho dos institutos: o INCT de Matemática era o maior, com 813 integrantes (dos quais 791 eram doutores), mostrando um cenário assimétrico ao INCT de Analíticas Avançadas com 87 integrantes e 81 doutores.
+- Aproximadamente 44,89% dos pesquisadores (1.975 de 4.400) não possuíam nenhuma conexão (grau zero).
+- O maior grau de conexão foi 42, de um pesquisador da área de Matemática com 306 contribuições. O pesquisador com a maior contribuição (2.771) possuía grau 17.
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão e variabilidade semântica de temas entre os 28 INCTs.
+- Ao todo foram citadas 29.042 palavras. Os termos mais frequentes, com suas contagens, foram: ""estuário"" (1707), ""Biodiesel"" (1618), ""Sensoriamento Remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""Plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+### 1.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexão. Ele abrangia 119 pesquisadores.
+- O cluster tinha o INCT de Fotônica como principal força de rede, com 92 pesquisadores.
+- As palavras-chave dominantes neste cluster foram ""Laser"" (816), ""Celulose bacteriana"" (422), ""Glasses"" (345), ""Biomateriais"" (182), ""lasers"" (170) e ""vidros"" (150).
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- O pesquisador com a maior contribuição (2.771) possuía grau 17, sendo um outlier que se distancia dos demais.
+- O autor com o maior grau de interação (42) possuía 306 contribuições.
+- A área apresentou uma correlação entre contribuição e grau de conexão, mas pesquisadores com maior grau de conexão geralmente possuíam menor frequência de contribuições.
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados de São Paulo (1.169), Rio de Janeiro (470) e Minas Gerais (345).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 4.400 pesquisadores em 515 instituições. O grupo contribuiu com 430.542 publicações.
+- O perfil de gênero mostrou 2.469 homens (média de 4 conexões) e 1.102 mulheres (média de 3 conexões).
+- Dos 4.400 pesquisadores, 1.621 (aproximadamente 37%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 85, de um pesquisador da Universidade de São Paulo com 367 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""estuário"" (1707), ""biodiesel"" (1618), ""sensoriamento remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra uma correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (85) tinha contribuições na faixa de 400 a 1.200.
+- Foi destacado que 89 pesquisadores ainda apresentavam grau zero de conexão.
+"
+1,Ciências Exatas e da Terra,2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores (4.400) e o percentual de pesquisadores com grau zero de conexões (44,89%, ou 1.975 pesquisadores) mantiveram-se exatamente iguais ao período anterior.
+- O maior grau de conexão foi 65, de um pesquisador do INCT de Física Nuclear com 367 contribuições. O segundo maior grau (63) era de um pesquisador com a maior contribuição no período (4.400 contribuições).
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi bem semelhante ao período anterior.
+- Os termos mais frequentes e suas contagens foram idênticos: ""estuário"" (1707), ""Biodiesel"" (1618), ""Sensoriamento Remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""Plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+### 2.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexão e era composto por 65 pesquisadores, que juntos somaram 7.983 contribuições.
+- A composição do cluster era dominada pelo INCT de Física Nuclear (51 pesquisadores).
+- As palavras-chave deste grupo mostraram um foco intenso em ""Cromodinâmica Quântica"" (475 menções), ""Espalhamento elástico"" (113), ""Regras de soma"" (105), ""Frente de luz"" (104) e ""Ion beam analysis"" (100).
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- O pesquisador mais produtivo (2.771 contribuições) possuía grau 16. Havia mais 5 pesquisadores com mais de 1.000 contribuições.
+- Os pesquisadores com grau mais elevado (acima de 40) possuíam em torno de 300 contribuições.
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu idêntica à do período anterior: São Paulo (1.169), Rio de Janeiro (470) e Minas Gerais (345).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 4.400 pesquisadores em 515 instituições. O grupo contribuiu com 430.542 publicações.
+- O perfil de gênero mostrou 2.469 homens (média de 4 conexões) e 1.102 mulheres (média de 3 conexões).
+- Dos 4.400 pesquisadores, 1.621 (aproximadamente 37%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 85, de um pesquisador da Universidade de São Paulo com 367 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""estuário"" (1707), ""biodiesel"" (1618), ""sensoriamento remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra uma correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (85) tinha contribuições na faixa de 400 a 1.200.
+- Foi destacado que 89 pesquisadores ainda apresentavam grau zero de conexão.
+"
+2,Ciências Exatas e da Terra,2020–2025,"
+### 3.1 Atores Centrais
+- O número de pesquisadores manteve-se (4.400), mas o número de contribuições totais subiu para 430.532.
+- O número de pesquisadores com grau zero de conexões piorou significativamente, subindo para 2.161 (aproximadamente 49,11% do total).
+- O maior grau de conexão foi 84, de um pesquisador do INCT de Física Nuclear. O pesquisador com a maior contribuição (2.771) era da área de Óptica Básica e possuía grau 16.
+#### 3.1.1 Palavras e termos centrais
+- A pesquisa manteve sua consistência temática, sendo a nuvem de palavras bem semelhante aos períodos anteriores.
+- Os termos mais frequentes e suas contagens foram os mesmos: ""estuário"" (1707), ""Biodiesel"" (1618), ""Sensoriamento Remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""Plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+### 3.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexão, e possuía 85 pesquisadores (mais do que no período anterior), que juntos somaram 11.541 contribuições.
+- O cluster era majoritariamente do INCT de Física Nuclear (52 pesquisadores).
+- As palavras-chave principais foram ""Estrutura nuclear"" (251), ""Espectroscopia Gama"" (155), ""Cromodinamica quântica"" (135), ""Regras de soma"" (104), ""Frente de luz"" (104), ""Espalhamento elástico"" (103) e ""propriedades de núcleos específicos"" (103).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva geral se manteve.
+- O principal pesquisador (2.771 contribuições) manteve o grau de conexão 16. O segundo pesquisador mais produtivo tinha 1.451 contribuições e grau 10.
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual seguiu a mesma dos períodos anteriores: São Paulo (1.169), Rio de Janeiro (470) e Minas Gerais (345).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 4.400 pesquisadores em 515 instituições. O grupo contribuiu com 430.542 publicações.
+- O perfil de gênero mostrou 2.469 homens (média de 4 conexões) e 1.102 mulheres (média de 3 conexões).
+- Dos 4.400 pesquisadores, 1.621 (aproximadamente 37%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 85, de um pesquisador da Universidade de São Paulo com 367 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""estuário"" (1707), ""biodiesel"" (1618), ""sensoriamento remoto"" (1600), ""mudanças climáticas"" (1451), ""filmes finos"" (1349), ""plantas medicinais"" (1294), ""produtos naturais"" (1274) e ""quimiometria"" (1226).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra uma correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (85) tinha contribuições na faixa de 400 a 1.200.
+- Foi destacado que 89 pesquisadores ainda apresentavam grau zero de conexão.
+"
+3,Ciências Biológicas,2010–2015,"
+### 3.1 Atores Centrais
+- O número total de pesquisadores (2.171) manteve-se. O número de pesquisadores com grau zero de conexões foi de 666 (aproximadamente 46,83%).
+- O maior grau de conexão foi 49, de um pesquisador do INCT de Medicina Regenerativa (com 170 contribuições).
+- O pesquisador com a maior contribuição (2.427) possuía grau 13.
+
+**3.1.1 Palavras e termos centrais**
+- A nuvem de palavras foi semelhante aos períodos anteriores.
+- Os termos mais frequentes e suas contagens foram os mesmos: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+### 3.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexões (grau 50).
+- Este cluster, predominantemente do INCT da Medicina Regenerativa, era composto por 50 pesquisadores e somou 5.881 contribuições.
+- As palavras-chave principais (com corte a partir de 80) foram: ""Morfo"" (200), ""inflamação"" (163), ""terapia celular"" (128), ""células tronco mesequimais"" (114), ""infarto miocárdio"" (97) e ""trypanossoma cruzi"" (87).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes    
+
+**3.3.1 Relação entre contribuições e grau de conexões**
+- A análise reforça a conclusão de que pesquisadores com maior grau de conexão apresentam poucas pesquisas em relação à maioria, e vice-versa.
+- O pesquisador com maior grau de interação (49) tinha 170 contribuições, e o de maior contribuição (2.427) tinha grau 13.
+
+**3.3.2 Estados com maior número de pesquisadores**    
+- A distribuição estadual permaneceu a mesma: São Paulo (462) e Rio de Janeiro (401).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da rede de coautoria
+- A análise geral considerou 3.856 currículos Lattes. O perfil acadêmico é de alto nível, com 76% (2.927) possuindo doutorado, 11,4% (440) mestrado e 7,9% (304) graduação.
+- Quanto ao gênero, 51,6% (1.987) dos pesquisadores são do sexo feminino, 41,6% (1.603) do sexo masculino e 6,9% (266) com gênero não informado.
+- Dos 3.423 pesquisadores, 1.693 (quase 50%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, mulheres (1.890) apresentaram uma média de 2 conexões, enquanto homens (1.480) tiveram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em biomas e doenças brasileiras.
+- Os termos mais frequentes foram: ""taxonomia"" (4491), ""biodiversidade"" (4096), ""cerrado"" (3000), ""tuberculose"" (2753), ""tripanossoma cruzi"" (2536), ""conservação"" (2490), ""mata atlântica"" (2323) e ""controle biológico"" (2007).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Embrapa, com grau 124 e 177 contribuições.
+- Apesar disso, foi destacado que mais de 500 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+4,Ciências Biológicas,2015–2020,"
+#### 2.1 Atores Centrais
+- O número total de pesquisadores (3.423) manteve-se. O número de pesquisadores com zero grau de conexões (isolados) caiu de 43% (1.443 pesquisadores) para 40% (1.356 pesquisadores), indicando uma leve melhoria na integração da rede.
+- maior grau de conexão foi 41, de um pesquisador do INCT de Entomologia Molecular. O segundo maior grau (40), do mesmo INCT, possuía 150 contribuições.
+
+**2.1.1 Palavras e termos centrais**    
+- A nuvem de palavras foi muito semelhante ao período anterior, indicando continuidade nas linhas de pesquisa.
+- Os termos mais frequentes e suas contagens: ""taxonomia"" (4491), ""biodiversidade"" (4096), ""cerrado"" (3000), ""tuberculose"" (2753), ""tripanossoma cruzi"" (2536), “conservação (2490)” e “mata atlântica”.
+- A alta dispersão persistiu, com aproximadamente 20.000 termos diferentes utilizados.
+#### 2.2 Principal Cluster
+- O principal cluster deste período era formado por 65 pesquisadores, que juntos somaram 10.194 contribuições.
+- A composição do cluster mudou, sendo agora liderada pelo INCT de Neuroimmunomodulação (25 pesquisadores) e pelo INCT de Biologia Estrutural (21 pesquisadores).
+- As palavras-chave deste grupo mostraram um foco intenso em ""Trypanosoma cruzi"" (13.944 menções), seguido por ""Imunologia"" (467), ""Alergia"" (345), ""Vacina"" (277), ""Doença de Chagas"" (269), Inflamação (228) e Toxiplasma Gondii (2017), com corte a partir de 200 palavras.
+
+**2.3.1 Relação entre Contribuições e Grau de Conexões**    
+- Os dois pesquisadores mais produtivos (com 1.704 e 989 contribuições, ambos do INCT de Investigação em Imunologia) apresentavam um baixo grau de conexão: 3 e 1, respectivamente.
+- Isso indica que, embora a correlação geralmente se mantenha, pesquisadores ""benchmarking"" podem atingir alta produtividade mesmo com baixa integração na rede.
+
+**2.3.2 Estados com maior número de pesquisadores**    
+- A distribuição estadual permaneceu idêntica à do período anterior: Rio de Janeiro (603), São Paulo (480), Rio Grande do Sul (343) e Minas Gerais (213).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da rede de coautoria
+- A análise geral considerou 3.856 currículos Lattes. O perfil acadêmico é de alto nível, com 76% (2.927) possuindo doutorado, 11,4% (440) mestrado e 7,9% (304) graduação.
+- Quanto ao gênero, 51,6% (1.987) dos pesquisadores são do sexo feminino, 41,6% (1.603) do sexo masculino e 6,9% (266) com gênero não informado.
+- Dos 3.423 pesquisadores, 1.693 (quase 50%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, mulheres (1.890) apresentaram uma média de 2 conexões, enquanto homens (1.480) tiveram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em biomas e doenças brasileiras.
+- Os termos mais frequentes foram: ""taxonomia"" (4491), ""biodiversidade"" (4096), ""cerrado"" (3000), ""tuberculose"" (2753), ""tripanossoma cruzi"" (2536), ""conservação"" (2490), ""mata atlântica"" (2323) e ""controle biológico"" (2007).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Embrapa, com grau 124 e 177 contribuições.
+- Apesar disso, foi destacado que mais de 500 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+5,Ciências Biológicas,2020–2025,"
+#### 3.1 Atores Centrais
+- O número de pesquisadores com zero grau de conexões piorou significativamente, subindo para 1.693 (aproximadamente 50% do total), ante 40% no período anterior.
+- O maior grau de conexão foi 44, de um pesquisador do INCT de Biologia Estrutural (com 294 contribuições).
+- Os dois pesquisadores de alta produção do período anterior melhoraram sua conexão: o com 1.723 contribuições (INCT Genética Médica) passou a ter grau 12, e o com 1.704 contribuições (INCT Investigação Imunologia) passou a ter grau 11.
+
+**3.1.1 Palavras e termos centrais**     
+- A pesquisa manteve sua consistência temática. O número de termos distintos utilizados foi de 19.579.
+- Os termos mais frequentes foram os mesmos, com a adição de ""controle biológico"" (2007) entre os mais citados. A lista principal foi: ""taxonomia"" (4491), ""biodiversidade"" (4096), ""cerrado"" (3000), ""tuberculose"" (2753), ""tripanossoma cruzi"" (2536), ""conservação"" (2490), ""mata atlântica"" (2323) e “controle biológico (2007)”.
+#### 3.2 PRINCIPAL CLUSTER
+- Dois clusters de alta relevância foram identificados neste período:
+- Cluster 1 (Biologia Estrutural): Era o maior, com 414 pesquisadores e 23.760 contribuições. Incluía o pesquisador com maior conexão da rede (grau 44). No entanto, 67 pesquisadores deste cluster tinham zero conexões. As palavras-chave principais foram ""imunologia"" (1901), ""malária"" (547) e ""trypanossoma cruzi"" (531).
+- Cluster 2 (Translacional Medicina): Era menor (79 pesquisadores) mas muito produtivo (21.941 contribuições). O pesquisador líder do cluster tinha 1.508 contribuições e grau 14. As palavras-chave focavam em ""envelhecimento"" (421), ""idosos"" (396), ""idoso"" (261) e ""tdah"" (254).
+
+**3.3.1 Relação entre Contribuições e Grau de Conexões**    
+- A correlação positiva geral se manteve, mas com a persistência de casos de alta contribuição e baixa conexão.
+- Os dois principais pesquisadores (outliers) mantiveram sua alta produção (1.723 e 1.704 contribuições) e seus graus de conexão em 12 e 11, respectivamente.
+
+**3.3.2 Estados com maior número de pesquisadores**    
+- A distribuição estadual seguiu a mesma dos períodos anteriores, liderada por Rio de Janeiro (603), São Paulo (480), Rio Grande do Sul (343) e Minas Gerais (213).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da rede de coautoria
+- A análise geral considerou 3.856 currículos Lattes. O perfil acadêmico é de alto nível, com 76% (2.927) possuindo doutorado, 11,4% (440) mestrado e 7,9% (304) graduação.
+- Quanto ao gênero, 51,6% (1.987) dos pesquisadores são do sexo feminino, 41,6% (1.603) do sexo masculino e 6,9% (266) com gênero não informado.
+- Dos 3.423 pesquisadores, 1.693 (quase 50%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, mulheres (1.890) apresentaram uma média de 2 conexões, enquanto homens (1.480) tiveram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em biomas e doenças brasileiras.
+- Os termos mais frequentes foram: ""taxonomia"" (4491), ""biodiversidade"" (4096), ""cerrado"" (3000), ""tuberculose"" (2753), ""tripanossoma cruzi"" (2536), ""conservação"" (2490), ""mata atlântica"" (2323) e ""controle biológico"" (2007).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Embrapa, com grau 124 e 177 contribuições.
+- Apesar disso, foi destacado que mais de 500 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+6,"Ciências Humanas, Sociais Aplicadas e Educação",2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, os 13 INCTs da área de Ciências Humanas analisados reportaram um total de 81.341 contribuições científicas (como artigos, capítulos de livros e resumos).
+- O grupo total era composto por 1.412 integrantes , demonstrando um alto nível de multidisciplinariedade: 998 possuíam doutorado, 191 mestrados e 112 graduação.
+- Foi observada uma assimetria significativa no tamanho dos institutos : o INCT ""Estudos Comparados"" era o maior, com 526 integrantes (dos quais 233 eram doutores) , enquanto o ""METROPOLES_DIREITO"" possuía 10 integrantes (dos quais 10 eram doutores).
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão de temas entre os 13 INCTs.
+- Os termos mais frequentes, com suas contagens, foram: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação"" (2535), ""Políticas Públicas"" (2363), ""Amazônia"" (1801), ""Segurança Pública"" (1780) e ""Estado Unidos"" (1680).
+- Esses termos indicam uma forte correlação da pesquisa com temas como Comunicação e políticas nacionais.
+### 1.2 Principal Cluster
+- O principal cluster (agrupamento de pesquisadores) foi definido pelo critério de maior contribuição. Este grupo continha 31 pesquisadores que somaram 4.053 contribuições.
+- O cluster era composto integralmente por membros do INCT de ""Comportamento e cognição"".
+- As palavras-chave dominantes neste cluster foram ""Aprendizagem Relacional"" (336 menções), ""Equivalência de estímulos"" (334), ""Controle de estímulos"" (306), ""Implante coclear"" (283), ""Criança"" (253) e ""Comportamento simbólico"" (251).
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- A análise não demonstrou uma correlação clara neste período. Foi indicado que os pesquisadores que mais produzem não estão, necessariamente, engajados em grupos ou clusters.
+- O pesquisador com mais contribuições (732) possuía um baixo grau de conexão (6). Em contraste, o pesquisador com maior grau de conexão (30) possuía 394 contribuições.
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados do Rio de Janeiro (com 272 pesquisadores), São Paulo (112) e Distrito Federal (104).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 1.422 pesquisadores em 242 instituições.
+- Quanto ao gênero, 742 (aprox. 52%) dos pesquisadores são do sexo feminino e 669 (aprox. 47%) do sexo masculino.
+- Dos 1.422 pesquisadores, 569 (aproximadamente 40%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (742) quanto homens (669) apresentaram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em democracia, políticas públicas, comunicação e relações sociais.
+- Os termos mais frequentes foram: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação (2535)"", ""Políticas Públicas (2363)"", ""Amazônia (1801)"" e ""Segurança Pública (1780)"".
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que a maior parte dos pesquisadores possui grau inferior a 10.
+- O maior grau de conexão em coautoria foi de um pesquisador da Universidade Federal Fluminense, com grau 39 e 157 contribuições.
+- Apesar disso, foi destacado que 569 pesquisadores (40% do total) possuem grau zero de conexão (coautoria) dentro da área.
+"
+7,"Ciências Humanas, Sociais Aplicadas e Educação",2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores (1.422) manteve-se. O número de pesquisadores com zero grau de conexões (isolados) caiu de 50,14% (713 pesquisadores) para 47,61% (677 pesquisadores), indicando uma leve melhoria na integração da rede.
+- O maior grau de conexão foi 22, compartilhado por dois pesquisadores (com 72 e 214 contribuições). O pesquisador com o maior número de contribuições (732) manteve um grau baixo (4).
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi muito semelhante ao período anterior, indicando continuidade nas linhas de pesquisa.
+- Os termos mais frequentes e suas contagens foram idênticos: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação"" (2535), ""Políticas Públicas"" (2363), ""Amazônia"" (1801) e ""Segurança Pública"" (1780).
+### 2.2 Principal Cluster
+- O principal cluster deste período era formado por 23 pesquisadores, que juntos somaram 2.214 contribuições.
+- A composição do cluster foi dominada pelo INCT de Democracia Digital, com 21 dos 23 pesquisadores.
+- As palavras-chave deste grupo mostraram um foco intenso em ""Comunicação e Política"" (715 menções), ""Democracia Digital"" (268), ""Redes Sociais, twitter, facebook, youtube"" (175) e ""Internet e política"" (172).
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- O pesquisador mais produtivo (com 732 contribuições) continuou com um baixo grau de conexão (4).
+- Em contraste, os dois pesquisadores com maior grau de conexão (22) tinham contribuições significativamente menores (72 e 214).
+- Isso reforça a indicação de que os pesquisadores mais produtivos não estão disseminando suas pesquisas em rede.
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu idêntica à do período anterior: Rio de Janeiro (272), São Paulo (112) e Distrito Federal (104).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 1.422 pesquisadores em 242 instituições.
+- Quanto ao gênero, 742 (aprox. 52%) dos pesquisadores são do sexo feminino e 669 (aprox. 47%) do sexo masculino.
+- Dos 1.422 pesquisadores, 569 (aproximadamente 40%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (742) quanto homens (669) apresentaram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em democracia, políticas públicas, comunicação e relações sociais.
+- Os termos mais frequentes foram: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação (2535)"", ""Políticas Públicas (2363)"", ""Amazônia (1801)"" e ""Segurança Pública (1780)"".
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que a maior parte dos pesquisadores possui grau inferior a 10.
+- O maior grau de conexão em coautoria foi de um pesquisador da Universidade Federal Fluminense, com grau 39 e 157 contribuições.
+- Apesar disso, foi destacado que 569 pesquisadores (40% do total) possuem grau zero de conexão (coautoria) dentro da área.
+"
+8,"Ciências Humanas, Sociais Aplicadas e Educação",2020–2025,"
+### 3.1 Atores Centrais
+- O número de pesquisadores com zero grau de conexões teve uma leve redução, passando de 677 (47,61%) no período anterior para 666 (46,83% do total).
+- O maior grau de conexão foi 22, de um pesquisador do INCT de ""Estudos EUA"".
+- O pesquisador com maior volume de contribuições (732) manteve o baixo grau de conexão 4.
+#### 3.1.1 Palavras e termos centrais
+- A pesquisa manteve sua consistência temática.
+- Os termos mais frequentes foram os mesmos dos períodos anteriores: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação"" (2535), ""Políticas Públicas"" (2363), ""Amazônia"" (1801) e ""Segurança Pública"" (1780).
+### 3.2 Principal Cluster
+- Neste período, o principal cluster foi identificado pelo grau de conexões (grau 23), diferindo dos períodos anteriores.
+- Este cluster (liderado pelo INCT de Estudos EUA) era composto por 23 pesquisadores e somava 1.827 contribuições.
+- As palavras-chave principais foram ""Estados Unidos"" (935), ""Brasil"" (589), ""Relações Internacionais"" (319), ""Política Exterior do Brasil"" (274), ""China"" (231) e ""Democracia"" (227).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A correlação manteve-se fraca, persistindo os casos de alta contribuição e baixa conexão.
+- O principal pesquisador (outlier) manteve sua alta produção (732 contribuições), mas seu grau de conexão permaneceu baixo (4). O pesquisador com maior grau (22) possuía apenas 36 contribuições.
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual seguiu a mesma dos períodos anteriores, liderada por Rio de Janeiro (272), São Paulo (112) e Distrito Federal (104).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 1.422 pesquisadores em 242 instituições.
+- Quanto ao gênero, 742 (aprox. 52%) dos pesquisadores são do sexo feminino e 669 (aprox. 47%) do sexo masculino.
+- Dos 1.422 pesquisadores, 569 (aproximadamente 40%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (742) quanto homens (669) apresentaram uma média de 3 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, mostrando grupos diversos com foco em democracia, políticas públicas, comunicação e relações sociais.
+- Os termos mais frequentes foram: ""Brasil"" (2998), ""democracia"" (2653), ""Comunicação (2535)"", ""Políticas Públicas (2363)"", ""Amazônia (1801)"" e ""Segurança Pública (1780)"".
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que a maior parte dos pesquisadores possui grau inferior a 10.
+- O maior grau de conexão em coautoria foi de um pesquisador da Universidade Federal Fluminense, com grau 39 e 157 contribuições.
+- Apesar disso, foi destacado que 569 pesquisadores (40% do total) possuem grau zero de conexão (coautoria) dentro da área.
+"
+9,Ecologia e Meio Ambiente,2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, os 3 INCTs da área de Ecologia e Meio Ambiente analisados reportaram um total de 47.142 contribuições científicas (como artigos, capítulos de livros e resumos).
+- O grupo total era composto por 581 integrantes , demonstrando um alto nível de multidisciplinariedade: 381 possuíam doutorado , 106 mestrados e 55 graduação.
+- Foi observada uma assimetria significativa no tamanho dos institutos: o INCT ""Criosfera"" era o maior, com 468 integrantes (dos quais 283 eram doutores) , enquanto o ""Ciencias_Forenses"" possuía 55 integrantes (dos quais 49 eram doutores).
+
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão e variabilidade semântica entre os 3 INCTs.
+- Os termos mais frequentes, com suas contagens, foram: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+- Esses termos possuem alta variabilidade.
+
+### 1.2 Principal Cluster
+- O principal cluster (agrupamento de pesquisadores) foi definido pelo critério de maior contribuição. Este grupo continha 39 pesquisadores que somaram 4.611 contribuições.
+- O cluster era composto integralmente por membros do INCT da ""Criosfera"".
+- As palavras-chave dominantes neste cluster foram ""antártica"" (1385 menções) , ""sensoriamento remoto"" (391) , ""glaciologia"" (268) , ""testemunhos de neve e gelo"" (256) , ""ilha rei george"" (251) e ""glacioquímica"" (202), com corte a partir de 200 palavras.
+
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- A análise demonstrou uma correlação positiva entre o número de contribuições de um pesquisador e seu grau de conexões na rede.
+- O pesquisador com mais contribuições (891) foi também o de maior grau de conexão (23).
+- No entanto, o documento também destaca outliers, como pesquisadores do Instituto Butantan e da Universidade Federal de Santa Catarina, com 779 e 772 contribuições, respectivamente, mas que apresentavam grau zero de conexões.
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados do Rio Grande do Sul (com 133 pesquisadores) , Rio de Janeiro (68) , São Paulo (59) e Minas Gerais (56).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 582 pesquisadores em 134 instituições.
+- Quanto ao gênero, 349 (aprox. 60%) dos pesquisadores são do sexo masculino e 227 (aprox. 39%) do sexo feminino.
+- Dos 582 pesquisadores, 326 (aproximadamente 56%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (227) quanto homens (349) apresentaram uma média de 2 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, indicando uma sequência na pesquisa da área.
+- Os termos mais frequentes foram: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Universidade Federal Fluminense, com grau 25 e 253 contribuições.
+- Apesar disso, foi destacado que 326 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+10,Ecologia e Meio Ambiente,2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores (581) manteve-se. O número de pesquisadores com zero grau de conexões (isolados) caiu de 56% (324 pesquisadores) para 48% (275 pesquisadores), indicando uma melhoria na integração da rede.
+- O maior grau de conexão foi 25 (de um pesquisador com 397 contribuições). O líder em contribuições (891) ficou em segundo lugar em conexões, com grau 24.
+
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi muito semelhante ao período anterior, indicando continuidade nas linhas de pesquisa.
+- Os termos mais frequentes e suas contagens foram: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+
+### 2.2 Principal Cluster
+- O principal cluster deste período era formado por 28 pesquisadores, que juntos somaram 3.157 contribuições.
+- A composição do cluster era integralmente do INCT da Criosfera.
+- As palavras-chave deste grupo mostraram um foco intenso em ""antártica"" (1312 menções) , ""sensoriamento remoto"" (329) , ""testemunhos de neve e gelo"" (256) , ""glaciologia"" (255) , ""ilha rei george"" (227) e ""glacioquímica"" (192), com corte a partir de 190 palavras.
+
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva entre contribuições e grau de conexão foi confirmada neste período.
+- O pesquisador mais produtivo (com 891 contribuições) apresentou um grau de conexão de 24. O pesquisador com maior grau de conexão (25) apresentou 397 contribuições.
+
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu idêntica à do período anterior: Rio Grande do Sul (133) , Rio de Janeiro (68) , São Paulo (59) e Minas Gerais (56).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 582 pesquisadores em 134 instituições.
+- Quanto ao gênero, 349 (aprox. 60%) dos pesquisadores são do sexo masculino e 227 (aprox. 39%) do sexo feminino.
+- Dos 582 pesquisadores, 326 (aproximadamente 56%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (227) quanto homens (349) apresentaram uma média de 2 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, indicando uma sequência na pesquisa da área.
+- Os termos mais frequentes foram: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Universidade Federal Fluminense, com grau 25 e 253 contribuições.
+- Apesar disso, foi destacado que 326 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+11,Ecologia e Meio Ambiente,2020–2025,"
+### 3.1 Atores Centrais
+- O número de pesquisadores com zero grau de conexões piorou, subindo para 326 (aproximadamente 56% do total) , ante 48% no período anterior.
+- O maior grau de conexão foi 25, de uma pesquisadora com 253 contribuições.
+- O pesquisador líder em contribuições (891) teve seu grau de conexão reduzido para 20.
+
+#### 3.1.1 Palavras e termos centrais
+- A pesquisa manteve sua consistência temática, sendo a nuvem de palavras ""bem semelhante com os períodos anteriores"".
+- Os termos mais frequentes foram os mesmos: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+### 3.2 Principal Cluster
+- O principal cluster (por contribuição) foi formado por 37 pesquisadores, que juntos somaram 3.510 contribuições.
+- Todos os pesquisadores do cluster pertenciam ao INCT da Criosfera.
+- As palavras-chave principais foram ""antártica"" (1435) , ""sensoriamento remoto"" (364) , ""glaciologia"" (268) , ""testemunhos de neve e gelo"" (259) , ""ilha rei george"" (234) e ""glacioquímica"" (218).
+
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva geral se manteve.
+- O principal pesquisador (outlier) manteve sua alta produção (891 contribuições) com um grau de conexão de 20.
+- Destaca-se que o segundo pesquisador com mais contribuições (779) apresentou grau zero de conexão, reforçando a existência de benchmarks que atuam de forma isolada.
+
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual seguiu a mesma dos períodos anteriores, liderada por Rio Grande do Sul (133) , Rio de Janeiro (68) , São Paulo (59) e Minas Gerais (56).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 582 pesquisadores em 134 instituições.
+- Quanto ao gênero, 349 (aprox. 60%) dos pesquisadores são do sexo masculino e 227 (aprox. 39%) do sexo feminino.
+- Dos 582 pesquisadores, 326 (aproximadamente 56%) não possuíam nenhum grau de conexão (coautoria).
+- Na rede de coautoria, tanto mulheres (227) quanto homens (349) apresentaram uma média de 2 conexões.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma os resultados dos períodos anteriores, indicando uma sequência na pesquisa da área.
+- Os termos mais frequentes foram: ""antártica"" (2422) , ""sensoriamento remoto"" (760) , ""biodiversidade"" (752) , ""taxonomia"" (691) , ""araneae"" (593) , ""processo penal"" (492) , ""fungos"" (483) , ""conservação"" (481) e ""astrobiologia"" (402).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O maior grau de conexão em coautoria foi de uma pesquisadora da Universidade Federal Fluminense, com grau 25 e 253 contribuições.
+- Apesar disso, foi destacado que 326 pesquisadores possuem grau zero de conexão (coautoria) dentro da área.
+"
+12,Saúde,2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, o conjunto de 15 INCTs da área da Saúde analisados reportou a produção de 250.151 contribuições científicas.
+- O grupo total era composto por 2.163 integrantes. O perfil de formação era de alto nível, com 1.621 doutorados, 271 mestrados e 136 graduações.
+- Foi observada uma alta assimetria no tamanho dos institutos: o INCT de Medicina Regenerativa era o maior, com 412 integrantes (250 doutores), e o INCT de Biomarcadores era o menor, com 14 integrantes (13 doutores).
+- Aproximadamente 49,10% dos pesquisadores (1.066 de 2.171) não possuíam nenhuma conexão (grau zero).
+- A pesquisadora com o maior grau de conexões (49) possuía 467 contribuições. O pesquisador com a maior contribuição (2.427) possuía grau 6.
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão de temas.
+- Os termos mais frequentes (com mais de 1000 menções) foram: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+### 1.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexões. Este grupo continha 50 pesquisadores que somaram 10.424 contribuições.
+- O cluster tinha o INCT da Medicina Regenerativa como principal força de rede (43 pesquisadores).
+- As palavras-chave dominantes (com corte a partir de 80) foram: ""células tronco"" (200), ""inflamação"" (163), ""terapia celular"" (128), ""células tronco mesequimais"" (114), ""infarto miocárdio"" (97) e ""trypanossoma cruzi"" (87).
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- A análise demonstrou que os pesquisadores que mais contribuem pesquisam de maneira isolada.
+- O pesquisador com a maior contribuição (2.427) possuía grau 6.
+- A pesquisadora com o maior grau de conexão (49) possuía 467 contribuições, sendo 19% do volume do pesquisador mais produtivo.
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados de São Paulo (462) e Rio de Janeiro (401).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 2.171 pesquisadores em 418 instituições. O grupo contribuiu com 250.151 publicações.
+- O perfil de gênero mostrou 1.270 mulheres (média de 10 conexões) e 873 homens (média de 13 conexões).
+- Dos 2.171 pesquisadores, 338 (aproximadamente 15,6%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 98, de uma pesquisadora com 757 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a sequência temática da área.
+- Os termos mais frequentes foram: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que o pesquisador com o maior grau de conexões (98) tem 757 contribuições.
+- Foi destacado que os principais líderes de cluster não possuem um número efetivo de contribuição no setor, indicando que os pesquisadores com maior grau pesquisam de maneira isolada ou com pouca interação.
+"
+13,Saúde,2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores (2.171) manteve-se. O número de pesquisadores com grau zero de conexões (isolados) caiu para 45,74% (993 pesquisadores), indicando maior interatividade.
+- O maior grau de conexão foi 26, de um pesquisador do INCT de Psiquiatria e Desenvolvimento (com 305 contribuições).
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi semelhante ao período anterior.
+- Os termos mais frequentes e suas contagens foram idênticos: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+### 2.2 Principal Cluster
+- O principal cluster (por contribuição) deste período era formado por 27 pesquisadores que somaram 5.500 contribuições.
+- O cluster era majoritariamente do INCT de Psiquiatria e Desenvolvimento (23 pesquisadores).
+- As palavras-chave deste grupo (com corte a partir de 50) mostraram foco em: ""ressonância magnética"" (104), ""esquizofrenia"" (79), ""depressão"" (65), ""spect"" (62), ""psiquiatria"" (51) e ""espectroscopia"" (51).
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- A pesquisadora com o maior grau de interação (26) possuía 305 contribuições, enquanto o pesquisador com a maior contribuição (2.427) possuía grau 4.
+- Isso reforça a ocorrência de pesquisas isoladas por parte dos pesquisadores mais produtivos.
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu a mesma: São Paulo (462) e Rio de Janeiro (401).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 2.171 pesquisadores em 418 instituições. O grupo contribuiu com 250.151 publicações.
+- O perfil de gênero mostrou 1.270 mulheres (média de 10 conexões) e 873 homens (média de 13 conexões).
+- Dos 2.171 pesquisadores, 338 (aproximadamente 15,6%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 98, de uma pesquisadora com 757 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a sequência temática da área.
+- Os termos mais frequentes foram: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que o pesquisador com o maior grau de conexões (98) tem 757 contribuições.
+- Foi destacado que os principais líderes de cluster não possuem um número efetivo de contribuição no setor, indicando que os pesquisadores com maior grau pesquisam de maneira isolada ou com pouca interação.
+"
+14,Saúde,2020–2025,"
+### 3.1 Atores Centrais
+- O número total de pesquisadores (2.171) manteve-se. O número de pesquisadores com grau zero de conexões foi de 666 (aproximadamente 46,83%).
+- O maior grau de conexão foi 49, de um pesquisador do INCT de Medicina Regenerativa (com 170 contribuições).
+- O pesquisador com a maior contribuição (2.427) possuía grau 13.
+
+#### 3.1.1 Palavras e termos centrais
+- A nuvem de palavras foi semelhante aos períodos anteriores.
+- Os termos mais frequentes e suas contagens foram os mesmos: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+#### 3.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior grau de conexões (grau 50).
+- Este cluster, predominantemente do INCT da Medicina Regenerativa, era composto por 50 pesquisadores e somou 5.881 contribuições.
+- As palavras-chave principais (com corte a partir de 80) foram: ""Morfo"" (200), ""inflamação"" (163), ""terapia celular"" (128), ""células tronco mesequimais"" (114), ""infarto miocárdio"" (97) e ""trypanossoma cruzi"" (87).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A análise reforça a conclusão de que pesquisadores com maior grau de conexão apresentam poucas pesquisas em relação à maioria, e vice-versa.
+- O pesquisador com maior grau de interação (49) tinha 170 contribuições, e o de maior contribuição (2.427) tinha grau 13.
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu a mesma: São Paulo (462) e Rio de Janeiro (401).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 2.171 pesquisadores em 418 instituições. O grupo contribuiu com 250.151 publicações.
+- O perfil de gênero mostrou 1.270 mulheres (média de 10 conexões) e 873 homens (média de 13 conexões).
+- Dos 2.171 pesquisadores, 338 (aproximadamente 15,6%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 98, de uma pesquisadora com 757 contribuições.
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a sequência temática da área.
+- Os termos mais frequentes foram: ""epidemiologia"" (2160), ""obesidade"" (1886), ""trypanosoma cruzi"" (1407), ""diabetes mellitus"" (1314), ""diabetes"" (1247), ""biomateriais"" (1209), ""plantas medicinais"" (1118), ""diagnóstico"" (1091) e ""doença de chagas"" (1013).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra que o pesquisador com o maior grau de conexões (98) tem 757 contribuições.
+- Foi destacado que os principais líderes de cluster não possuem um número efetivo de contribuição no setor, indicando que os pesquisadores com maior grau pesquisam de maneira isolada ou com pouca interação.
+"
+15,Ciências Agrárias e Agronegócios,2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, os 8 INCTs da área de Ciências Agrárias e Agronegócios analisados reportaram a produção de 139.108 contribuições científicas.
+- O grupo total era composto por 755 integrantes, sendo a maioria com alto nível de formação: 615 doutorados, 58 mestrados e 48 graduações.
+- Foi observada uma alta assimetria no tamanho dos institutos: o INCT de Microrganismos Promotores era o maior, com 242 integrantes (153 doutores), e o INCT de Semioquímicos na Agricultura era o menor, com 13 integrantes (todos doutores).
+- Aproximadamente 38% dos pesquisadores (291 de 755) não possuíam nenhuma conexão (grau zero).
+- O pesquisador com a maior contribuição (1.737 produções) também possuía o maior grau de conexões (35).
+
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão de temas.
+- Os termos mais frequentes, com suas contagens, foram: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+### 1.2 Principal Cluster
+- O principal cluster foi definido pelo critério de maior contribuição. Este grupo continha 54 pesquisadores que somaram 20.035 contribuições.
+- O cluster era composto por membros de 4 INCTs, com destaque para o INCT de Ciência Animal (43 pesquisadores).
+- As palavras-chave dominantes neste cluster (com corte a partir de 500) foram: ""Digestibilidade"" (902), ""Consumo"" (788), ""Bovinos"" (652), ""Composição Química"" (643), ""vacas leiteiras"" (526) e ""valor nutritivo"" (520).
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- A análise demonstrou uma correlação positiva entre contribuição e grau de conexão, sendo o pesquisador mais produtivo (1.737 contribuições) o de maior grau (35).
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados de Minas Gerais (148), São Paulo (122) e Paraná (99).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 759 pesquisadores em 138 instituições. O grupo contribuiu com 139.108 publicações.
+- O perfil de gênero mostrou 419 homens (média de 10 conexões) e 328 mulheres (média de 8 conexões).
+- Dos 759 pesquisadores, 89 (aproximadamente 11,7%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 78, de uma pesquisadora da Embrapa (com 1.134 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (78) tinha 1.134 contribuições.
+"
+16,Ciências Agrárias e Agronegócios,2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores subiu para 759. O número de pesquisadores com grau zero de conexões (isolados) caiu para 31% (238 pesquisadores).
+- O maior grau de conexão foi 37, de um pesquisador do INCT de Genômica Comparativa (com 651 contribuições). O segundo maior grau (32) era do pesquisador com a maior contribuição da área (1.737 contribuições).
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi semelhante ao período anterior.
+- Os termos mais frequentes e suas contagens foram idênticos: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+### 2.2 Principal Cluster
+- O principal cluster (por contribuição) deste período era formado por 57 pesquisadores, que juntos somaram 22.864 contribuições.
+- O cluster era composto majoritariamente pelo INCT de Ciência Animal (47 pesquisadores).
+- As palavras-chave deste grupo (com corte a partir de 500) mostraram foco em: ""Bovinos"" (946), ""Digestibilidade"" (850), ""Ovinos"" (832), ""ganho de peso"" (769), ""Zootecnia"" (761), ""Consumo"" (759), ""vacas leiteiras"" (652), ""ruminantes"" (643), ""Composição Química"" (634) e ""nutrição"" (618).
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva geral se manteve, mas houve uma mudança nas lideranças de grau. O pesquisador mais produtivo (1.737 contribuições) caiu de grau 35 para 32. O novo líder em grau (37) tinha 651 contribuições.
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu semelhante: Minas Gerais (148), São Paulo (121) e Paraná (99).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 759 pesquisadores em 138 instituições. O grupo contribuiu com 139.108 publicações.
+- O perfil de gênero mostrou 419 homens (média de 10 conexões) e 328 mulheres (média de 8 conexões).
+- Dos 759 pesquisadores, 89 (aproximadamente 11,7%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 78, de uma pesquisadora da Embrapa (com 1.134 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (78) tinha 1.134 contribuições.
+"
+17,Ciências Agrárias e Agronegócios,2020–2025,"
+### 3.1 Atores Centrais
+- O número total de pesquisadores (759) e contribuições (139.109) manteve-se. O número de pesquisadores com grau zero de conexões piorou significativamente, subindo para aproximadamente 50% (378 pesquisadores).
+- O maior grau de conexão foi 26, compartilhado por dois pesquisadores. Um deles era o líder em contribuições (1.737) e o outro possuía 327 contribuições.
+#### 3.1.1 Palavras e termos centrais
+- A pesquisa manteve sua consistência temática, sendo a nuvem de palavras semelhante aos períodos anteriores.
+- Os termos mais frequentes e suas contagens foram os mesmos: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+### 3.2 Principal Cluster
+- O principal cluster (por contribuição) foi o INCT do Café, com 12.445 contribuições e 51 pesquisadores.
+- O cluster era composto por 49 pesquisadores do INCT do Café.
+- As palavras-chave principais (com corte a partir de 1300) foram: ""Café"" (3863), ""bovinos"" (1901), ""Citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""Cafeeiro"" (1337) e ""digestibilidade"" (1300).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva geral se manteve, mas com casos de baixa conexão e alta contribuição.
+- O principal pesquisador (1.737 contribuições) manteve o grau de conexão 26, caindo do segundo para o primeiro lugar em contribuição/grau.
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual seguiu a mesma dos períodos anteriores: Minas Gerais (148), São Paulo (121) e Paraná (99).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral considerou 759 pesquisadores em 138 instituições. O grupo contribuiu com 139.108 publicações.
+- O perfil de gênero mostrou 419 homens (média de 10 conexões) e 328 mulheres (média de 8 conexões).
+- Dos 759 pesquisadores, 89 (aproximadamente 11,7%) não possuíam nenhum grau de conexão (coautoria).
+- O maior grau de conexões em coautoria foi 78, de uma pesquisadora da Embrapa (com 1.134 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram: ""café"" (3863), ""bovinos"" (1901), ""citros"" (1874), ""qualidade"" (1739), ""melhoramento genético"" (1457), ""cafeeiro"" (1337), ""digestibilidade"" (1300), ""sementes"" (1240) e ""ovinos"" (1224).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria confirma a correlação positiva entre conexões e contribuições.
+- O pesquisador com o maior grau de conexões (78) tinha 1.134 contribuições.
+"
+18,"Engenharias, Energias e Tecnologias da Informação",2010–2015,"
+### 1.1 Atores Centrais
+- Neste período, os 12 INCTs da área de Engenharias analisados reportaram um total de 108.267 contribuições científicas (como artigos, capítulos de livros e resumos).
+- O grupo total era composto por 1.154 integrantes, demonstrando um alto nível de multidisciplinariedade: 750 possuíam doutorado, 202 mestrados (acadêmico e profissional) e 118 graduação.
+- Foi observada uma assimetria significativa no tamanho dos institutos: o INCT ""Medicina Assistida"" era o maior, com 285 integrantes (dos quais 213 eram doutores), enquanto o ""Sistemas Autônomos"" possuía 39 integrantes (dos quais 35 eram doutores).
+- Aproximadamente 56% dos pesquisadores (642 de 1154) não possuíam nenhuma conexão (grau zero) na rede semântica.
+- O maior grau de conexão foi 23, de um pesquisador do INCT de Geração Distribuída, que possuía 283 contribuições.
+
+#### 1.1.1 Palavras e termos centrais
+- A análise das palavras-chave confirmou uma alta dispersão e variabilidade de temas entre os 12 INCTs.
+- Os termos mais frequentes, com suas contagens, foram: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+- Esses termos, embora frequentes, também são diversos, o que é uma característica da área.
+
+### 1.2 Principal Cluster
+- O principal cluster (agrupamento de pesquisadores) foi definido pelo critério de maior contribuição. Este grupo continha 285 pesquisadores (do INCT de Medicina Assistida) que somaram 24.101 contribuições.
+- As palavras-chave dominantes neste cluster foram ""realidade virtual"" (1105 menções), ""métodos estatísticos"" (452), ""tecnologia educacional"" (305), ""saúde pública"" (275), ""tomada de decisão"" (238) e ""análise espacial"" (206).
+
+### 1.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 1.3.1 Relação entre contribuições e grau de conexões
+- A análise demonstrou uma correlação entre o número de contribuições de um pesquisador e seu grau de conexões na rede.
+- No entanto, foi identificado um outlier: o pesquisador com o maior número de contribuições (1.063, do INCT de Tecnologias Ecoeficientes) possuía um baixo grau de conexão (grau 3).
+
+#### 1.3.2 Estados com maior número de pesquisadores
+- Houve uma concentração de pesquisadores nos estados de São Paulo (com 200 pesquisadores), Rio de Janeiro (146), Minas Gerais (97), Santa Catarina (81) e Pernambuco (76).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral de coautoria considerou 1.159 pesquisadores em 191 instituições. O grupo contribuiu com 108.267 publicações.
+- Quanto ao gênero, 856 (aprox. 74%) dos pesquisadores são do sexo masculino (média de 5 conexões) e 297 (aprox. 26%) do sexo feminino (média de 4 conexões).
+- Na rede de coautoria, o número de pesquisadores isolados foi muito menor: 254 (aprox. 22%) não possuíam nenhum grau de conexão.
+- O maior grau de conexão em coautoria foi 53, de um pesquisador da Universidade Federal de Pernambuco (com 338 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram os mesmos identificados nas análises semânticas: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra um grupo de 5 pesquisadores com mais de 600 contribuições e uma média de 14 conexões.
+- O pesquisador mais produtivo (1.063 contribuições) apresentou grau 7, e a segunda mais produtiva (974 contribuições) apresentou grau 4.
+- Outros pesquisadores líderes em contribuição (na casa das 600) apresentaram altos graus de conexão, como 33 e 22.
+"
+19,"Engenharias, Energias e Tecnologias da Informação",2015–2020,"
+### 2.1 Atores Centrais
+- O número total de pesquisadores (1.154) e contribuições (108.267) manteve-se. O número de pesquisadores com zero grau de conexões (isolados) caiu de 56% para aproximadamente 48% (548 pesquisadores), indicando uma melhoria na integração da rede.
+- O maior grau de conexão foi 27, de um pesquisador do INCT de Energia Elétrica (com 228 contribuições). O segundo maior grau (24), do INCT de Tecnologia GNSS, possuía 570 contribuições.
+
+#### 2.1.1 Palavras e termos centrais
+- A nuvem de palavras foi muito semelhante ao período anterior, indicando continuidade nas linhas de pesquisa.
+- Os termos mais frequentes e suas contagens foram os mesmos do período anterior: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+
+### 2.2 Principal Cluster
+- O principal cluster (por contribuição) deste período era formado por 50 pesquisadores, que juntos somaram 8.124 contribuições.
+- A composição do cluster mudou, sendo agora formado por membros dos INCTs de Energias Oceânicas, Energia Elétrica e Geração Distribuída.
+- As palavras-chave deste grupo mostraram um foco intenso em ""eletrônica de potência"" (367 menções), ""sistemas fotovoltaicos"" (290), ""competitividade"" (176), ""qualidade de energia"" (168), ""controle"" (164) e ""inversores"" (163).
+
+### 2.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 2.3.1 Relação entre contribuições e grau de conexões
+- A correlação positiva geral se manteve.
+- Os pesquisadores de destaque (outliers) foram o de maior grau (27), com 228 contribuições, e o segundo maior grau (24), com 570 contribuições.
+
+#### 2.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual permaneceu semelhante à do período anterior: São Paulo (200), Rio de Janeiro (146), Minas Gerais (97) e Santa Catarina (81).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral de coautoria considerou 1.159 pesquisadores em 191 instituições. O grupo contribuiu com 108.267 publicações.
+- Quanto ao gênero, 856 (aprox. 74%) dos pesquisadores são do sexo masculino (média de 5 conexões) e 297 (aprox. 26%) do sexo feminino (média de 4 conexões).
+- Na rede de coautoria, o número de pesquisadores isolados foi muito menor: 254 (aprox. 22%) não possuíam nenhum grau de conexão.
+- O maior grau de conexão em coautoria foi 53, de um pesquisador da Universidade Federal de Pernambuco (com 338 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram os mesmos identificados nas análises semânticas: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra um grupo de 5 pesquisadores com mais de 600 contribuições e uma média de 14 conexões.
+- O pesquisador mais produtivo (1.063 contribuições) apresentou grau 7, e a segunda mais produtiva (974 contribuições) apresentou grau 4.
+- Outros pesquisadores líderes em contribuição (na casa das 600) apresentaram altos graus de conexão, como 33 e 22.
+"
+20,"Engenharias, Energias e Tecnologias da Informação",2020–2025,"
+### 3.1 Atores Centrais
+- O número de pesquisadores subiu para 1.159. O número de pesquisadores com zero grau de conexões piorou significativamente, subindo para 662 (aproximadamente 57% do total), ante 48% no período anterior.
+- O maior grau de conexão foi 25, de um pesquisador do INCT de Energia Elétrica (com 225 contribuições).
+- Os dois pesquisadores com maior produção (1.063 e 974 contribuições, ambos do INCT Tecnologias Ecoeficientes) apresentaram baixo grau de conexão (grau 2 para ambos).
+
+#### 3.1.1 Palavras e termos centrais
+- A pesquisa manteve sua consistência temática, com a nuvem de palavras sendo semelhante aos períodos anteriores.
+- Os termos mais frequentes foram os mesmos: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+### 3.2 Principal Cluster
+- O principal cluster (por contribuição) foi formado por um grupo do INCT Observatório Nacional, com 4.717 contribuições.
+- Este cluster apresentou uma média de conexões (7) bem maior que a média geral (1).
+- As palavras-chave principais foram ""Balanço de energia"" (72), ""evapotranspiração"" (68), ""razão de bowen"" (54) e ""climatologia do nordeste"" (51).
+### 3.3 Propriedades Estruturais: Contribuições e Perfil das Redes
+#### 3.3.1 Relação entre contribuições e grau de conexões
+- A análise destacou os pesquisadores com maior grau de conexão: grau 25 (com 225 contribuições) e grau 22 (com 174 contribuições).
+- Também foram destacados outliers de alta contribuição, como pesquisadores com 570 e 297 contribuições e grau 20.
+#### 3.3.2 Estados com maior número de pesquisadores
+- A distribuição estadual seguiu a mesma dos períodos anteriores, liderada por São Paulo (200), Rio de Janeiro (146) e Minas Gerais (97).
+","
+**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como ""nós"" e as coautorias como ""arestas"", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam ""mundos pequenos"" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+","
+### 4. REDE DE COAUTORIA
+#### 4.1 Perfil da Rede de Coautoria
+- A análise geral de coautoria considerou 1.159 pesquisadores em 191 instituições. O grupo contribuiu com 108.267 publicações.
+- Quanto ao gênero, 856 (aprox. 74%) dos pesquisadores são do sexo masculino (média de 5 conexões) e 297 (aprox. 26%) do sexo feminino (média de 4 conexões).
+- Na rede de coautoria, o número de pesquisadores isolados foi muito menor: 254 (aprox. 22%) não possuíam nenhum grau de conexão.
+- O maior grau de conexão em coautoria foi 53, de um pesquisador da Universidade Federal de Pernambuco (com 338 contribuições).
+#### 4.2 Nuvem de Palavras
+- A análise de coautoria confirma a manutenção dos temas de pesquisa ao longo do tempo.
+- Os termos mais frequentes foram os mesmos identificados nas análises semânticas: ""realidade virtual"" (1141), ""elementos finitos"" (937), ""geossintéticos"" (781), ""concreto"" (689), ""processamento de sinais"" (635), ""cardiologia"" (621), ""otimização topológica"" (607) e ""eletrônica de potência"" (606).
+#### 4.3 Relação entre Contribuições e Grau de Conexões
+- A análise de coautoria mostra um grupo de 5 pesquisadores com mais de 600 contribuições e uma média de 14 conexões.
+- O pesquisador mais produtivo (1.063 contribuições) apresentou grau 7, e a segunda mais produtiva (974 contribuições) apresentou grau 4.
+- Outros pesquisadores líderes em contribuição (na casa das 600) apresentaram altos graus de conexão, como 33 e 22.
+"

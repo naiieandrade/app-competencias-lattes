@@ -1,0 +1,57 @@
+area,formacao_mais_alta,qtd
+0,Ciências Agrárias e Agronegócios,Doutorado,320
+1,Ciências Agrárias e Agronegócios,Especialização,12
+2,Ciências Agrárias e Agronegócios,Graduação,49
+3,Ciências Agrárias e Agronegócios,Livre-Docência,30
+4,Ciências Agrárias e Agronegócios,Mestrado,56
+5,Ciências Agrárias e Agronegócios,Pós-Doutorado,289
+6,Ciências Biológicas,Curso Técnico,3
+7,Ciências Biológicas,Doutorado,1114
+8,Ciências Biológicas,Ensino Fundamental,1
+9,Ciências Biológicas,Ensino Médio,9
+10,Ciências Biológicas,Especialização,71
+11,Ciências Biológicas,Graduação,168
+12,Ciências Biológicas,Livre-Docência,192
+13,Ciências Biológicas,Mestrado,288
+14,Ciências Biológicas,Pós-Doutorado,1586
+15,Ciências Exatas e da Terra,Curso Técnico,6
+16,Ciências Exatas e da Terra,Doutorado,1369
+17,Ciências Exatas e da Terra,Ensino Médio,5
+18,Ciências Exatas e da Terra,Especialização,26
+19,Ciências Exatas e da Terra,Graduação,208
+20,Ciências Exatas e da Terra,Livre-Docência,444
+21,Ciências Exatas e da Terra,Mestrado,279
+22,Ciências Exatas e da Terra,Pós-Doutorado,2069
+23,"Ciências Humanas, Sociais Aplicadas e Educação",Doutorado,477
+24,"Ciências Humanas, Sociais Aplicadas e Educação",Ensino Fundamental,1
+25,"Ciências Humanas, Sociais Aplicadas e Educação",Ensino Médio,4
+26,"Ciências Humanas, Sociais Aplicadas e Educação",Especialização,20
+27,"Ciências Humanas, Sociais Aplicadas e Educação",Graduação,115
+28,"Ciências Humanas, Sociais Aplicadas e Educação",Livre-Docência,46
+29,"Ciências Humanas, Sociais Aplicadas e Educação",Mestrado,168
+30,"Ciências Humanas, Sociais Aplicadas e Educação",Pós-Doutorado,595
+31,Ecologia e Meio Ambiente,Curso Técnico,2
+32,Ecologia e Meio Ambiente,Doutorado,203
+33,Ecologia e Meio Ambiente,Ensino Fundamental,1
+34,Ecologia e Meio Ambiente,Especialização,13
+35,Ecologia e Meio Ambiente,Graduação,49
+36,Ecologia e Meio Ambiente,Livre-Docência,8
+37,Ecologia e Meio Ambiente,Mestrado,69
+38,Ecologia e Meio Ambiente,Pós-Doutorado,237
+39,"Engenharias, Energias e Tecnologias da Informação",Curso Técnico,1
+40,"Engenharias, Energias e Tecnologias da Informação",Doutorado,421
+41,"Engenharias, Energias e Tecnologias da Informação",Ensino Médio,2
+42,"Engenharias, Energias e Tecnologias da Informação",Especialização,15
+43,"Engenharias, Energias e Tecnologias da Informação",Graduação,125
+44,"Engenharias, Energias e Tecnologias da Informação",Livre-Docência,62
+45,"Engenharias, Energias e Tecnologias da Informação",Mestrado,190
+46,"Engenharias, Energias e Tecnologias da Informação",Pós-Doutorado,343
+47,Saúde,Curso Técnico,1
+48,Saúde,Doutorado,794
+49,Saúde,Ensino Fundamental,1
+50,Saúde,Ensino Médio,10
+51,Saúde,Especialização,42
+52,Saúde,Graduação,137
+53,Saúde,Livre-Docência,168
+54,Saúde,Mestrado,202
+55,Saúde,Pós-Doutorado,823
