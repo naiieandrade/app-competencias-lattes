@@ -94,52 +94,52 @@ def run(inct_sel: str, df_filtrado: pd.DataFrame):
     #st.markdown("---")
     st.markdown("")
 
-    left, right = st.columns([2, 2])
-    with left:
-        texto = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_descricao'].iloc[0]
-        if pd.notna(texto) and texto.strip():
-            st.write(texto)
-        else:
-            st.info("📄 Nenhuma descrição disponível para este INCT.")
+    # left, right = st.columns([2, 2])
+    # with left:
+    #     texto = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_descricao'].iloc[0]
+    #     if pd.notna(texto) and texto.strip():
+    #         st.write(texto)
+    #     else:
+    #         st.info("📄 Nenhuma descrição disponível para este INCT.")
 
-        texto_estatisticas = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_estatisticas'].iloc[0]
-        if pd.notna(texto_estatisticas) and texto_estatisticas.strip():
-            st.write(texto_estatisticas)
-        else:
-            st.write("")
+    #     texto_estatisticas = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_estatisticas'].iloc[0]
+    #     if pd.notna(texto_estatisticas) and texto_estatisticas.strip():
+    #         st.write(texto_estatisticas)
+    #     else:
+    #         st.write("")
 
-        texto_comparativos = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_comparativos'].iloc[0]
-        if pd.notna(texto_comparativos) and texto_comparativos.strip():
-            st.write(texto_comparativos)
-        else:
-            st.write("")
+    #     texto_comparativos = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_comparativos'].iloc[0]
+    #     if pd.notna(texto_comparativos) and texto_comparativos.strip():
+    #         st.write(texto_comparativos)
+    #     else:
+    #         st.write("")
 
-        texto_indicadores = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_indicadores'].iloc[0]
-        if pd.notna(texto_indicadores) and texto_indicadores.strip():
-            st.write(texto_indicadores)
-        else:
-            st.write("")
+    #     texto_indicadores = df_texto_inct.loc[df_texto_inct['nome_inct']==inct_sel]['texto_indicadores'].iloc[0]
+    #     if pd.notna(texto_indicadores) and texto_indicadores.strip():
+    #         st.write(texto_indicadores)
+    #     else:
+    #         st.write("")
 
     # ====== GRAFO INTERATIVO (GEXF) ======
-    with right:
+    # with right:
 
-        path_gexf = info.get("path_gexf_html", "")
-        html_cached_path = f"gexf_html/{Path(path_gexf).stem}.html"
-    
-        html = load_cached_html(html_cached_path)
-    
-        if html:
-            st.components.v1.html(
-                f"""
-                <iframe srcdoc='{html.replace("'", "&apos;")}'
-                        style="width:100%; height:950px; border:none; overflow:hidden;">
-                </iframe>
-                """,
-                height=960,
-                scrolling=False
-            )
-        else:
-            st.info(f"📁 Grafo ainda não foi pré-gerado. Arquivo esperado: `{html_cached_path}`")
+    path_gexf = info.get("path_gexf_html", "")
+    html_cached_path = f"gexf_html/{Path(path_gexf).stem}.html"
+
+    html = load_cached_html(html_cached_path)
+
+    if html:
+        st.components.v1.html(
+            f"""
+            <iframe srcdoc='{html.replace("'", "&apos;")}'
+                    style="width:100%; height:950px; border:none; overflow:hidden;">
+            </iframe>
+            """,
+            height=960,
+            scrolling=False
+        )
+    else:
+        st.info(f"📁 Grafo ainda não foi pré-gerado. Arquivo esperado: `{html_cached_path}`")
 
 
     # ====== SANKEY (pré-gerado, centralizado e em card) ======

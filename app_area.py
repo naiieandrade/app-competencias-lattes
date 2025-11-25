@@ -53,30 +53,30 @@ def run(area_sel: str, df_filtrado: pd.DataFrame):
     
 
     # ====== FILTRO DE PERÍODO ======
-    periodos = ["2010–2015", "2015–2020", "2020–2025"]
-    periodo_sel = st.radio(
-        "Período:",
-        options=periodos,
-        index=len(periodos) - 1,  # começa no mais recente
-        horizontal=True,
-        key=f"periodo_{area_sel}"
-    )
+    # periodos = ["2010–2015", "2015–2020", "2020–2025"]
+    # periodo_sel = st.radio(
+    #     "Período:",
+    #     options=periodos,
+    #     index=len(periodos) - 1,  # começa no mais recente
+    #     horizontal=True,
+    #     key=f"periodo_{area_sel}"
+    # )
 
     st.markdown(f"## Painel — Área: {area_sel}")
 
-    st.markdown("""**CONTEXTUALIZAÇÃO METODOLÓGICA**    
-O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como "nós" e as coautorias como "arestas", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam "mundos pequenos" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
-Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
-""")
-    texto = df_texto_area.query(
-        "area == @area_sel and periodo == @periodo_sel"
-    )["texto_md"].iloc[0]
+#     st.markdown("""**CONTEXTUALIZAÇÃO METODOLÓGICA**    
+# O estudo se baseia na premissa de que a estrutura das interações entre cientistas é fundamental para entender as redes de colaboração científica. Utilizando a abordagem de redes, os cientistas são representados como "nós" e as coautorias como "arestas", permitindo mapear a organização social da ciência. Conforme demonstrado por Newman (2001), essas redes formam "mundos pequenos" com alta conectividade, o que impacta diretamente a difusão de informações e a inovação.    
+# Para investigar o conteúdo dessa produção, a metodologia aplica a análise de redes semânticas. Esse método é usado para extrair, correlacionar e visualizar o significado das relações e conceitos na literatura científica. O objetivo é identificar insights (sinais fracos e fortes) que possam auxiliar na avaliação de políticas públicas e na tomada de decisão para os INCTs.
+# """)
+#     texto = df_texto_area.query(
+#         "area == @area_sel and periodo == @periodo_sel"
+#     )["texto_md"].iloc[0]
     
-    st.markdown(texto)
-    texto_coautoria = df_texto_area.query(
-        "area == @area_sel and periodo == @periodo_sel"
-    )["texto_coautoria"].iloc[0]
-    st.markdown(texto_coautoria)
+#     st.markdown(texto)
+#     texto_coautoria = df_texto_area.query(
+#         "area == @area_sel and periodo == @periodo_sel"
+#     )["texto_coautoria"].iloc[0]
+#     st.markdown(texto_coautoria)
 
     # ==========================================================
     # 🕸️ GRAFO INTERATIVO (GEXF CACHEADO)

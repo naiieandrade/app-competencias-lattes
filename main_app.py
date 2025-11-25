@@ -5,6 +5,69 @@ from pathlib import Path
 import app_inct
 import app_area
 
+
+def do_rerun():
+    """Compatível com Streamlit novas e antigas."""
+    try:
+        st.rerun()
+    except AttributeError:
+        st.experimental_rerun()
+
+
+# ==========================
+# ESTÁGIOS: home -> login -> app
+# ==========================
+
+def pagina_inicial():
+    st.title("📊 Painel CGEE INCT")
+    st.markdown("""
+    Bem-vindo(a) ao **Painel de Competências Lattes** do CGEE.
+
+    Aqui você poderá explorar:
+    - Redes de colaboração entre pesquisadores
+    - Produção científica por INCT e por Área
+    - Distribuição geográfica e formações
+    """)
+
+    st.info("O acesso é restrito a usuários autorizados do CGEE.")
+
+    if st.button("Prosseguir para login"):
+        st.session_state["stage"] = "login"
+        do_rerun()
+
+
+def tela_login():
+    st.header("🔐 Acesso restrito")
+
+    username = st.text_input("Usuário")
+    password = st.text_input("Senha", type="password")
+
+    if st.button("Entrar"):
+        # pegue essas credenciais de st.secrets ou hard-code por enquanto
+        user_ok = username == st.secrets["username"]
+        pass_ok = password == st.secrets["password"]
+
+        if user_ok and pass_ok:
+            st.session_state["logged_in"] = True
+            st.session_state["stage"] = "app"
+            do_rerun()
+        else:
+            st.error("Usuário ou senha incorretos.")
+
+
+# --------- Controle de fluxo ---------
+if "stage" not in st.session_state:
+    st.session_state["stage"] = "home"
+
+if st.session_state["stage"] == "home":
+    pagina_inicial()
+    st.stop()
+
+if not st.session_state.get("logged_in", False):
+    tela_login()
+    st.stop()
+
+
 # ==================== REMOVER BARRA DO STREAMLIT (PRODUÇÃO) ====================
 st.set_page_config(
     page_title="Painel de Competências",# page_icon="🧬",

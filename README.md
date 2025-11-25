@@ -57,7 +57,7 @@ Para subir em modo detatched e com restart:
 
 ```python
 docker run -d \
-  --name cgee-inct \
+  --name app-inct \
   --restart=always \
   -p 8502:8502 \
   app-inct
